@@ -1,0 +1,321 @@
+target 70 degrees
+Starting PID control for 20s...
+Target: 70.00 | Angle: -5.06 | Error: 75.06 | Output: 25087.67 | Time (ms): 86098PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+Target: 70.00 | Angle: -4.94 | Error: 74.94 | Output: 65.90 | Time (ms): 86160 | Loop time (ms): 338
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+Target: 70.00 | Angle: 1.92 | Error: 68.08 | Output: 43.28 | Time (ms): 86499 | Loop time (ms): 318
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 22.52 | Error: 47.48 | Output: -18.62 | Time (ms): 86817 | Loop time (ms): 292
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+Target: 70.00 | Angle: 25.72 | Error: 44.28 | Output: 33.37 | Time (ms): 87109 | Loop time (ms): 308
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 37.29 | Error: 32.71 | Output: -2.82 | Time (ms): 87417 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 43.86 | Error: 26.14 | Output: -56.44 | Time (ms): 87494 | Loop time (ms): 331
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+Target: 70.00 | Angle: 45.24 | Error: 24.76 | Output: 24.22 | Time (ms): 87825 | Loop time (ms): 298
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 51.69 | Error: 18.31 | Output: 1.37 | Time (ms): 88123 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 56.47 | Error: 13.53 | Output: -44.96 | Time (ms): 88198 | Loop time (ms): 317
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+Target: 70.00 | Angle: 55.21 | Error: 14.79 | Output: 24.29 | Time (ms): 88516 | Loop time (ms): 298
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 60.26 | Error: 9.74 | Output: -0.99 | Time (ms): 88814 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 62.97 | Error: 7.03 | Output: -22.47 | Time (ms): 88889 | Loop time (ms): 296
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+Target: 70.00 | Angle: 58.03 | Error: 11.97 | Output: 34.99 | Time (ms): 89185 | Loop time (ms): 308
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 63.00 | Error: 7.00 | Output: -2.08 | Time (ms): 89493 | Loop time (ms): 75
+Target: 70.00 | Angle: 66.77 | Error: 3.23 | Output: -2.08 | Time (ms): 89568 | Loop time (ms): 61
+Target: 70.00 | Angle: 68.67 | Error: 1.33 | Output: -2.08 | Time (ms): 89629 | Loop time (ms): 62
+Target: 70.00 | Angle: 70.02 | Error: -0.02 | Output: -2.08 | Time (ms): 89691 | Loop time (ms): 61
+Target: 70.00 | Angle: 70.89 | Error: -0.89 | Output: -2.08 | Time (ms): 89752 | Loop time (ms): 62
+Target: 70.00 | Angle: 71.61 | Error: -1.61 | Output: -2.08 | Time (ms): 89814 | Loop time (ms): 61
+Target: 70.00 | Angle: 71.85 | Error: -1.85 | Output: -2.08 | Time (ms): 89875 | Loop time (ms): 62
+Target: 70.00 | Angle: 72.09 | Error: -2.09 | Output: -2.08 | Time (ms): 89937 | Loop time (ms): 63
+Target: 70.00 | Angle: 72.52 | Error: -2.52 | Output: -2.08 | Time (ms): 90000 | Loop time (ms): 63
+Target: 70.00 | Angle: 72.69 | Error: -2.69 | Output: -2.08 | Time (ms): 90063 | Loop time (ms): 63
+Target: 70.00 | Angle: 72.73 | Error: -2.73 | Output: -2.08 | Time (ms): 90126 | Loop time (ms): 62
+Target: 70.00 | Angle: 72.83 | Error: -2.83 | Output: -2.08 | Time (ms): 90189 | Loop time (ms): 62
+Target: 70.00 | Angle: 72.95 | Error: -2.95 | Output: -2.08 | Time (ms): 90251 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.04 | Error: -3.04 | Output: -2.08 | Time (ms): 90312 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.20 | Error: -3.20 | Output: -2.08 | Time (ms): 90374 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.25 | Error: -3.25 | Output: -2.08 | Time (ms): 90435 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.38 | Error: -3.38 | Output: -2.08 | Time (ms): 90497 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.40 | Error: -3.40 | Output: -2.08 | Time (ms): 90558 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.46 | Error: -3.46 | Output: -2.08 | Time (ms): 90619 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.39 | Error: -3.39 | Output: -2.08 | Time (ms): 90681 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.48 | Error: -3.48 | Output: -2.08 | Time (ms): 90743 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.45 | Error: -3.45 | Output: -2.08 | Time (ms): 90805 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.47 | Error: -3.47 | Output: -2.08 | Time (ms): 90867 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.51 | Error: -3.51 | Output: -2.08 | Time (ms): 90930 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.53 | Error: -3.53 | Output: -2.08 | Time (ms): 90992 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 91054 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 91116 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 91177 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 91239 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 91300 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 91362 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 91423 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 91485 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 91547 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 91610 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 91673 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 91736 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 91799 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 91862 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 91923 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 91984 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 92046 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 92107 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 92169 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 92230 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -2.08 | Time (ms): 92292 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -2.08 | Time (ms): 92354 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 92417 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 92480 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 92542 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 92605 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 92667 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 92729 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 92790 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 92852 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 92913 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -2.08 | Time (ms): 92975 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 93036 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 93097 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 93159 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 93221 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 93284 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -2.08 | Time (ms): 93347 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 93410 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 93473 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -2.08 | Time (ms): 93536 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 93597 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -2.08 | Time (ms): 93659 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -2.08 | Time (ms): 93720 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -2.08 | Time (ms): 93782 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -2.08 | Time (ms): 93843 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 93904 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 93966 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 94028 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 94091 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 94153 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 94216 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.59 | Error: -3.60 | Output: -2.08 | Time (ms): 94278 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 94341 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 94402 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 94464 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.58 | Error: -3.58 | Output: -2.08 | Time (ms): 94525 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.58 | Error: -3.58 | Output: -2.08 | Time (ms): 94586 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 94648 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.57 | Error: -3.57 | Output: -2.08 | Time (ms): 94709 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 94771 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.53 | Error: -3.53 | Output: -2.08 | Time (ms): 94832 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.51 | Error: -3.51 | Output: -2.08 | Time (ms): 94895 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 94957 | Loop time (ms): 64
+Target: 70.00 | Angle: 73.50 | Error: -3.50 | Output: -2.08 | Time (ms): 95021 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.55 | Error: -3.55 | Output: -2.08 | Time (ms): 95083 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 95147 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 95209 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 95270 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -2.08 | Time (ms): 95332 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -2.08 | Time (ms): 95393 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 95455 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 95516 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 95578 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -2.08 | Time (ms): 95639 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 95700 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 95763 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 95825 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 95887 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 95949 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 96013 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.71 | Error: -3.71 | Output: -2.08 | Time (ms): 96075 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -2.08 | Time (ms): 96137 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 96198 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 96260 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 96321 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.71 | Error: -3.71 | Output: -2.08 | Time (ms): 96382 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -2.08 | Time (ms): 96444 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 96505 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.59 | Error: -3.59 | Output: -2.08 | Time (ms): 96568 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 96630 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -2.08 | Time (ms): 96693 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -2.08 | Time (ms): 96755 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -2.08 | Time (ms): 96818 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.74 | Error: -3.74 | Output: -2.08 | Time (ms): 96880 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 96942 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -2.08 | Time (ms): 97003 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -2.08 | Time (ms): 97064 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -2.08 | Time (ms): 97126 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -2.08 | Time (ms): 97187 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.78 | Error: -3.78 | Output: -2.08 | Time (ms): 97249 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -2.08 | Time (ms): 97310 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.74 | Error: -3.74 | Output: -2.08 | Time (ms): 97372 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.75 | Error: -3.75 | Output: -2.08 | Time (ms): 97434 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.78 | Error: -3.78 | Output: -2.08 | Time (ms): 97497 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.80 | Error: -3.80 | Output: -2.08 | Time (ms): 97560 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.74 | Error: -3.74 | Output: -2.08 | Time (ms): 97623 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -2.08 | Time (ms): 97686 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -2.08 | Time (ms): 97748 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.80 | Error: -3.80 | Output: -2.08 | Time (ms): 97809 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.80 | Error: -3.80 | Output: -2.08 | Time (ms): 97870 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.80 | Error: -3.80 | Output: -2.08 | Time (ms): 97932 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.81 | Error: -3.81 | Output: -2.08 | Time (ms): 97993 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.82 | Error: -3.82 | Output: -2.08 | Time (ms): 98055 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -2.08 | Time (ms): 98116 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 98178 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -2.08 | Time (ms): 98240 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -2.08 | Time (ms): 98302 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.71 | Error: -3.71 | Output: -2.08 | Time (ms): 98365 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 98428 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 98491 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 98553 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 98616 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.59 | Error: -3.59 | Output: -2.08 | Time (ms): 98677 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.56 | Error: -3.56 | Output: -2.08 | Time (ms): 98739 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 98800 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 98862 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 98923 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.55 | Error: -3.55 | Output: -2.08 | Time (ms): 98984 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 99046 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 99108 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 99171 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 99234 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 99297 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 99359 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 99422 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 99483 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -2.08 | Time (ms): 99545 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -2.08 | Time (ms): 99606 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -2.08 | Time (ms): 99667 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 99729 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.57 | Error: -3.57 | Output: -2.08 | Time (ms): 99790 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 99852 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 99914 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.74 | Error: -3.74 | Output: -2.08 | Time (ms): 99977 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -2.08 | Time (ms): 100039 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.74 | Error: -3.74 | Output: -2.08 | Time (ms): 100102 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -2.08 | Time (ms): 100164 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -2.08 | Time (ms): 100227 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -2.08 | Time (ms): 100289 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 100352 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 100414 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 100477 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 100539 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.53 | Error: -3.53 | Output: -2.08 | Time (ms): 100601 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 100664 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.59 | Error: -3.59 | Output: -2.08 | Time (ms): 100726 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 100789 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 100850 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 100912 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 100973 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -2.08 | Time (ms): 101035 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.59 | Error: -3.59 | Output: -2.08 | Time (ms): 101096 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 101157 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -2.08 | Time (ms): 101219 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 101280 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.58 | Error: -3.58 | Output: -2.08 | Time (ms): 101342 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -2.08 | Time (ms): 101403 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 101465 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.58 | Error: -3.58 | Output: -2.08 | Time (ms): 101526 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.55 | Error: -3.55 | Output: -2.08 | Time (ms): 101587 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.52 | Error: -3.52 | Output: -2.08 | Time (ms): 101649 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.48 | Error: -3.48 | Output: -2.08 | Time (ms): 101710 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.42 | Error: -3.42 | Output: -2.08 | Time (ms): 101772 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.44 | Error: -3.44 | Output: -2.08 | Time (ms): 101833 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.49 | Error: -3.49 | Output: -2.08 | Time (ms): 101895 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.52 | Error: -3.52 | Output: -2.08 | Time (ms): 101956 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.55 | Error: -3.55 | Output: -2.08 | Time (ms): 102018 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.58 | Error: -3.58 | Output: -2.08 | Time (ms): 102080 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -2.08 | Time (ms): 102142 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 102205 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 102267 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -2.08 | Time (ms): 102330 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 102392 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.55 | Error: -3.55 | Output: -2.08 | Time (ms): 102454 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.50 | Error: -3.50 | Output: -2.08 | Time (ms): 102517 | Loop time (ms): 64
+Target: 70.00 | Angle: 73.44 | Error: -3.44 | Output: -2.08 | Time (ms): 102581 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.52 | Error: -3.52 | Output: -2.08 | Time (ms): 102643 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.47 | Error: -3.47 | Output: -2.08 | Time (ms): 102706 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.46 | Error: -3.46 | Output: -2.08 | Time (ms): 102768 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.50 | Error: -3.50 | Output: -2.08 | Time (ms): 102831 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.56 | Error: -3.56 | Output: -2.08 | Time (ms): 102893 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 102957 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 103019 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.55 | Error: -3.55 | Output: -2.08 | Time (ms): 103081 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 103143 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 103205 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.55 | Error: -3.55 | Output: -2.08 | Time (ms): 103267 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.56 | Error: -3.56 | Output: -2.08 | Time (ms): 103328 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 103390 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.51 | Error: -3.51 | Output: -2.08 | Time (ms): 103451 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.52 | Error: -3.52 | Output: -2.08 | Time (ms): 103513 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.54 | Error: -3.54 | Output: -2.08 | Time (ms): 103574 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.56 | Error: -3.56 | Output: -2.08 | Time (ms): 103635 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.57 | Error: -3.57 | Output: -2.08 | Time (ms): 103697 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.52 | Error: -3.52 | Output: -2.08 | Time (ms): 103758 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.49 | Error: -3.49 | Output: -2.08 | Time (ms): 103820 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.51 | Error: -3.51 | Output: -2.08 | Time (ms): 103881 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.49 | Error: -3.49 | Output: -2.08 | Time (ms): 103943 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.45 | Error: -3.45 | Output: -2.08 | Time (ms): 104004 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.44 | Error: -3.44 | Output: -2.08 | Time (ms): 104066 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.44 | Error: -3.44 | Output: -2.08 | Time (ms): 104127 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.46 | Error: -3.46 | Output: -2.08 | Time (ms): 104188 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.47 | Error: -3.47 | Output: -2.08 | Time (ms): 104250 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.51 | Error: -3.51 | Output: -2.08 | Time (ms): 104311 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.52 | Error: -3.52 | Output: -2.08 | Time (ms): 104373 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.49 | Error: -3.49 | Output: -2.08 | Time (ms): 104434 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.45 | Error: -3.45 | Output: -2.08 | Time (ms): 104496 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.47 | Error: -3.47 | Output: -2.08 | Time (ms): 104557 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.48 | Error: -3.48 | Output: -2.08 | Time (ms): 104620 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.52 | Error: -3.52 | Output: -2.08 | Time (ms): 104682 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.53 | Error: -3.53 | Output: -2.08 | Time (ms): 104744 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.60 | Error: -3.60 | Output: -2.08 | Time (ms): 104807 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -2.08 | Time (ms): 104869 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -2.08 | Time (ms): 104932 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.56 | Error: -3.56 | Output: -2.08 | Time (ms): 104994 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.57 | Error: -3.57 | Output: -2.08 | Time (ms): 105057 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.51 | Error: -3.51 | Output: -2.08 | Time (ms): 105119 | Loop time (ms): 64
+Target: 70.00 | Angle: 73.45 | Error: -3.45 | Output: -2.08 | Time (ms): 105183 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.42 | Error: -3.42 | Output: -2.08 | Time (ms): 105245 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.44 | Error: -3.44 | Output: -2.08 | Time (ms): 105308 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.41 | Error: -3.41 | Output: -2.08 | Time (ms): 105370 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.35 | Error: -3.35 | Output: -2.08 | Time (ms): 105433 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.31 | Error: -3.31 | Output: -2.08 | Time (ms): 105495 | Loop time (ms): 63
+Target: 70.00 | Angle: 73.37 | Error: -3.37 | Output: -2.08 | Time (ms): 105559 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.37 | Error: -3.37 | Output: -2.08 | Time (ms): 105621 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.43 | Error: -3.43 | Output: -2.08 | Time (ms): 105683 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.50 | Error: -3.50 | Output: -2.08 | Time (ms): 105745 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.45 | Error: -3.45 | Output: -2.08 | Time (ms): 105807 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.45 | Error: -3.45 | Output: -2.08 | Time (ms): 105869 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.48 | Error: -3.48 | Output: -2.08 | Time (ms): 105931 | Loop time (ms): 62
+Target: 70.00 | Angle: 73.47 | Error: -3.47 | Output: -2.08 | Time (ms): 105993 | Loop time (ms): 61
+Target: 70.00 | Angle: 73.46 | Error: -3.46 | Output: -2.08 | Time (ms): 106054 | Loop time (ms): 62
