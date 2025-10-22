@@ -1,0 +1,583 @@
+Target: 70.00 | Angle: 63.36 | Error: 6.64 | Output: -23.91 | Time (ms): 2172956 | Loop time (ms): 297
+ | Loop time (ms): 60
+ | Loop time (ms): 60
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+ | Loop time (ms): 60
+ | Loop time (ms): 60
+ | Loop time (ms): 59
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+ | Loop time (ms): 59
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.01 | Error: -5.01 | Output: 1.42 | Time (ms): 2173968 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.27 | Error: -5.27 | Output: -0.62 | Time (ms): 2174043 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.49 | Error: -5.49 | Output: -0.22 | Time (ms): 2174118 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.66 | Error: -5.66 | Output: 0.39 | Time (ms): 2174193 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.79 | Error: -5.79 | Output: 0.78 | Time (ms): 2174268 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.89 | Error: -5.89 | Output: 1.26 | Time (ms): 2174344 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.00 | Error: -6.00 | Output: 0.96 | Time (ms): 2174419 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.07 | Error: -6.07 | Output: 1.40 | Time (ms): 2174495 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.17 | Error: -6.17 | Output: 0.97 | Time (ms): 2174571 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.28 | Error: -6.28 | Output: 0.61 | Time (ms): 2174646 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.35 | Error: -6.35 | Output: 1.05 | Time (ms): 2174722 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.39 | Error: -6.39 | Output: 1.46 | Time (ms): 2174797 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: 1.00 | Time (ms): 2174872 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.47 | Error: -6.47 | Output: 1.85 | Time (ms): 2174947 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: 1.54 | Time (ms): 2175023 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: 1.54 | Time (ms): 2175099 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: 1.12 | Time (ms): 2175175 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: 1.90 | Time (ms): 2175250 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: 2.53 | Time (ms): 2175326 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: 1.86 | Time (ms): 2175401 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.48 | Error: -6.48 | Output: 1.84 | Time (ms): 2175477 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: 0.58 | Time (ms): 2175552 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: 1.65 | Time (ms): 2175628 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: 1.62 | Time (ms): 2175704 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: 1.38 | Time (ms): 2175779 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.56 | Error: -6.56 | Output: 1.17 | Time (ms): 2175854 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.57 | Error: -6.57 | Output: 1.17 | Time (ms): 2175930 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.57 | Error: -6.57 | Output: 1.42 | Time (ms): 2176006 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.59 | Error: -6.59 | Output: 0.87 | Time (ms): 2176082 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: 1.93 | Time (ms): 2176157 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.56 | Error: -6.56 | Output: 1.18 | Time (ms): 2176233 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.56 | Error: -6.56 | Output: 1.13 | Time (ms): 2176309 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: 1.37 | Time (ms): 2176385 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: 1.47 | Time (ms): 2176459 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.61 | Error: -6.61 | Output: -0.30 | Time (ms): 2176534 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.62 | Error: -6.62 | Output: 0.79 | Time (ms): 2176610 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.64 | Error: -6.64 | Output: 0.69 | Time (ms): 2176686 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.62 | Error: -6.62 | Output: 1.10 | Time (ms): 2176760 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: 1.29 | Time (ms): 2176836 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.63 | Error: -6.63 | Output: 0.39 | Time (ms): 2176912 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.67 | Error: -6.67 | Output: -0.02 | Time (ms): 2176988 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.61 | Error: -6.61 | Output: 1.84 | Time (ms): 2177062 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: 1.71 | Time (ms): 2177138 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.56 | Error: -6.56 | Output: 0.45 | Time (ms): 2177214 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.57 | Error: -6.57 | Output: 0.53 | Time (ms): 2177290 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: 0.12 | Time (ms): 2177364 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.61 | Error: -6.61 | Output: 0.37 | Time (ms): 2177440 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.59 | Error: -6.59 | Output: 0.94 | Time (ms): 2177516 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: 1.57 | Time (ms): 2177592 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: 0.43 | Time (ms): 2177667 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: 0.16 | Time (ms): 2177742 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.58 | Error: -6.58 | Output: -0.22 | Time (ms): 2177818 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.58 | Error: -6.58 | Output: 0.36 | Time (ms): 2177894 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: 1.17 | Time (ms): 2177969 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: 0.21 | Time (ms): 2178044 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: -0.84 | Time (ms): 2178120 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: 1.46 | Time (ms): 2178196 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: 0.46 | Time (ms): 2178271 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: -0.40 | Time (ms): 2178347 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: 1.05 | Time (ms): 2178422 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: -0.80 | Time (ms): 2178497 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: 0.93 | Time (ms): 2178573 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -0.28 | Time (ms): 2178649 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.47 | Error: -6.47 | Output: 0.51 | Time (ms): 2178724 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: 0.15 | Time (ms): 2178799 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -0.10 | Time (ms): 2178875 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: -1.25 | Time (ms): 2178951 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: 0.34 | Time (ms): 2179026 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.47 | Error: -6.47 | Output: 0.36 | Time (ms): 2179102 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.44 | Error: -6.44 | Output: 0.20 | Time (ms): 2179178 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -1.08 | Time (ms): 2179255 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.48 | Error: -6.48 | Output: -0.05 | Time (ms): 2179330 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -0.13 | Time (ms): 2179405 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.48 | Error: -6.48 | Output: -0.64 | Time (ms): 2179481 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -1.59 | Time (ms): 2179556 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: -0.05 | Time (ms): 2179632 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: -0.54 | Time (ms): 2179707 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -0.29 | Time (ms): 2179782 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: 0.08 | Time (ms): 2179858 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -1.42 | Time (ms): 2179934 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.44 | Error: -6.44 | Output: 0.44 | Time (ms): 2180009 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -1.47 | Time (ms): 2180085 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -1.15 | Time (ms): 2180161 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.48 | Error: -6.48 | Output: -0.35 | Time (ms): 2180238 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -0.45 | Time (ms): 2180314 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.44 | Error: -6.44 | Output: -0.48 | Time (ms): 2180389 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.41 | Error: -6.41 | Output: -0.37 | Time (ms): 2180465 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.40 | Error: -6.40 | Output: -0.67 | Time (ms): 2180540 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -1.94 | Time (ms): 2180616 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.44 | Error: -6.44 | Output: -0.65 | Time (ms): 2180691 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -1.41 | Time (ms): 2180766 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.39 | Error: -6.39 | Output: 0.02 | Time (ms): 2180842 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.37 | Error: -6.37 | Output: -0.59 | Time (ms): 2180919 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.38 | Error: -6.38 | Output: -1.31 | Time (ms): 2180994 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.36 | Error: -6.36 | Output: -0.74 | Time (ms): 2181069 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -2.79 | Time (ms): 2181145 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.45 | Error: -6.45 | Output: -1.10 | Time (ms): 2181220 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.47 | Error: -6.47 | Output: -1.76 | Time (ms): 2181296 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -1.99 | Time (ms): 2181371 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: -1.86 | Time (ms): 2181446 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.59 | Error: -6.59 | Output: -2.35 | Time (ms): 2181522 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.57 | Error: -6.57 | Output: -1.25 | Time (ms): 2181599 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -0.39 | Time (ms): 2181675 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.48 | Error: -6.48 | Output: -1.40 | Time (ms): 2181750 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -2.14 | Time (ms): 2181827 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -1.53 | Time (ms): 2181903 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: -1.91 | Time (ms): 2181979 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.59 | Error: -6.59 | Output: -2.91 | Time (ms): 2182054 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -1.30 | Time (ms): 2182130 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.59 | Error: -6.59 | Output: -2.55 | Time (ms): 2182206 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.62 | Error: -6.62 | Output: -2.40 | Time (ms): 2182282 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.65 | Error: -6.65 | Output: -2.48 | Time (ms): 2182358 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: -1.26 | Time (ms): 2182433 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: -2.04 | Time (ms): 2182509 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.63 | Error: -6.63 | Output: -2.58 | Time (ms): 2182585 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -0.89 | Time (ms): 2182661 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: -1.83 | Time (ms): 2182736 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -1.58 | Time (ms): 2182812 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -2.18 | Time (ms): 2182888 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -2.07 | Time (ms): 2182964 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: -3.12 | Time (ms): 2183040 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: -1.97 | Time (ms): 2183114 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.48 | Error: -6.48 | Output: -1.81 | Time (ms): 2183191 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.57 | Error: -6.57 | Output: -3.81 | Time (ms): 2183268 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: -1.59 | Time (ms): 2183343 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -2.34 | Time (ms): 2183418 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -2.37 | Time (ms): 2183493 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -2.61 | Time (ms): 2183568 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -2.27 | Time (ms): 2183644 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -2.73 | Time (ms): 2183719 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -2.02 | Time (ms): 2183794 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -3.39 | Time (ms): 2183870 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.47 | Error: -6.47 | Output: -2.22 | Time (ms): 2183946 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: -3.55 | Time (ms): 2184020 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -2.64 | Time (ms): 2184096 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.52 | Error: -6.52 | Output: -3.10 | Time (ms): 2184172 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -2.54 | Time (ms): 2184247 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -3.07 | Time (ms): 2184323 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -3.74 | Time (ms): 2184399 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: -2.72 | Time (ms): 2184474 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -2.69 | Time (ms): 2184550 | Loop time (ms): 77
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -2.99 | Time (ms): 2184627 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.46 | Error: -6.46 | Output: -2.42 | Time (ms): 2184701 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -3.85 | Time (ms): 2184777 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -3.98 | Time (ms): 2184853 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: -3.00 | Time (ms): 2184928 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.63 | Error: -6.63 | Output: -4.84 | Time (ms): 2185004 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.59 | Error: -6.59 | Output: -2.90 | Time (ms): 2185079 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.65 | Error: -6.65 | Output: -4.40 | Time (ms): 2185154 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.68 | Error: -6.68 | Output: -4.03 | Time (ms): 2185230 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: -2.34 | Time (ms): 2185306 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.63 | Error: -6.63 | Output: -3.99 | Time (ms): 2185380 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.61 | Error: -6.61 | Output: -3.37 | Time (ms): 2185456 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.63 | Error: -6.63 | Output: -4.01 | Time (ms): 2185532 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.64 | Error: -6.64 | Output: -3.90 | Time (ms): 2185607 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.63 | Error: -6.63 | Output: -3.54 | Time (ms): 2185682 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.65 | Error: -6.65 | Output: -4.09 | Time (ms): 2185758 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.64 | Error: -6.64 | Output: -3.82 | Time (ms): 2185833 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: -3.19 | Time (ms): 2185909 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.54 | Error: -6.54 | Output: -2.91 | Time (ms): 2185985 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -4.01 | Time (ms): 2186059 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.58 | Error: -6.58 | Output: -4.50 | Time (ms): 2186135 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -3.45 | Time (ms): 2186211 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -3.30 | Time (ms): 2186286 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.47 | Error: -6.47 | Output: -3.32 | Time (ms): 2186361 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.50 | Error: -6.50 | Output: -4.48 | Time (ms): 2186437 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.49 | Error: -6.49 | Output: -3.92 | Time (ms): 2186512 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: -4.77 | Time (ms): 2186588 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.51 | Error: -6.51 | Output: -3.92 | Time (ms): 2186664 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.55 | Error: -6.55 | Output: -4.79 | Time (ms): 2186740 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.53 | Error: -6.53 | Output: -4.06 | Time (ms): 2186816 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.56 | Error: -6.56 | Output: -4.76 | Time (ms): 2186892 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: -4.99 | Time (ms): 2186968 | Loop time (ms): 74
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.62 | Error: -6.62 | Output: -4.83 | Time (ms): 2187043 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.60 | Error: -6.60 | Output: -4.24 | Time (ms): 2187119 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.58 | Error: -6.58 | Output: -4.23 | Time (ms): 2187195 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.58 | Error: -6.58 | Output: -4.49 | Time (ms): 2187271 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.61 | Error: -6.61 | Output: -5.08 | Time (ms): 2187346 | Loop time (ms): 285
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.19 | Error: -6.19 | Output: -2.62 | Time (ms): 2187631 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.10 | Error: -6.10 | Output: -2.94 | Time (ms): 2187707 | Loop time (ms): 75
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 76.32 | Error: -6.32 | Output: -8.02 | Time (ms): 2187783 | Loop time (ms): 283
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.26 | Error: -5.26 | Output: 0.73 | Time (ms): 2188067 | Loop time (ms): 76
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.65 | Error: -5.65 | Output: -10.27 | Time (ms): 2188143 | Loop time (ms): 285
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+ | Loop time (ms): 59
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+Target: 70.00 | Angle: 75.11 | Error: -5.11 | Output: -9.44 | Time (ms): 2188606 | Loop time (ms): 284
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+ | Loop time (ms): 61
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+ | Loop time (ms): 59
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+ | Loop time (ms): 59
+ | Loop time (ms): 60
+ | Loop time (ms): 59
