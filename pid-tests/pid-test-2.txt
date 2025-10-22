@@ -1,3 +1,11 @@
+settings:
+pressure: 60psi
+proportional gain: 1.2
+integral gain: 0.35
+derivative gain: 0.5
+tolerance: +- 5deg
+length: 20s
+
 Starting PID control for 20s...
 PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
 PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
