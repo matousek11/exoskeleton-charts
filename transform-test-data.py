@@ -1,4 +1,4 @@
-path = "pid-tests/transformed-data/pid-test-7.txt"
+path = "pid-tests/transformed-data/pid-test-9.txt"
 
 cleaned_data = []
 
@@ -11,7 +11,10 @@ with open(path, "r") as f:
         line = line.replace('Angle: ', '')
         line = line.replace('Error: ', '')
         line = line.replace('Output: ', '')
-        line = line.replace('Time (ms): ', '') 
+        line = line.replace('Time (ms): ', '')
+        line = line.replace('Prop: ', '')
+        line = line.replace('Der: ', '')
+        line = line.replace('Int: ', '') 
         line = line.replace('Loop time (ms): ', '')
         line = line.replace(' | ', ';')
         cleaned_data.append(line)
