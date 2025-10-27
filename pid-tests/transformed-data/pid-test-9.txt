@@ -1,306 +1,261 @@
-Target: 70.00 | Angle: 70.06 | Error: -0.06 | Output: 0.00 | Time (ms): 617764 | Prop: 0.00 | Der: 0.00 | Int: 0.00 | Loop time (ms): 64
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 70.00 | Angle: 57.35 | Error: 12.65 | Output: 289.50 | Time (ms): 617828 | Prop: 11.39 | Der: 278.05 | Int: 0.06 | Loop time (ms): 566
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 61.74 | Error: 8.26 | Output: -3.00 | Time (ms): 618394 | Prop: 7.43 | Der: -10.87 | Int: 0.44 | Loop time (ms): 79
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 64.08 | Error: 5.92 | Output: -35.56 | Time (ms): 618473 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 312
-Target: 70.00 | Angle: 66.89 | Error: 3.11 | Output: -35.56 | Time (ms): 618785 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 64
-Target: 70.00 | Angle: 68.47 | Error: 1.53 | Output: -35.56 | Time (ms): 618849 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 63
-Target: 70.00 | Angle: 70.46 | Error: -0.46 | Output: -35.56 | Time (ms): 618912 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 64
-Target: 70.00 | Angle: 71.84 | Error: -1.84 | Output: -35.56 | Time (ms): 618977 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 64
-Target: 70.00 | Angle: 72.75 | Error: -2.75 | Output: -35.56 | Time (ms): 619041 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.74 | Error: -3.74 | Output: -35.56 | Time (ms): 619106 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.56 | Error: -4.56 | Output: -35.56 | Time (ms): 619169 | Prop: 5.33 | Der: -41.37 | Int: 0.48 | Loop time (ms): 64
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 75.17 | Error: -5.17 | Output: -17.58 | Time (ms): 619233 | Prop: -4.66 | Der: -13.37 | Int: 0.45 | Loop time (ms): 295
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 75.77 | Error: -5.77 | Output: -7.69 | Time (ms): 619528 | Prop: -5.19 | Der: -2.81 | Int: 0.31 | Loop time (ms): 288
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 76.09 | Error: -6.09 | Output: -6.91 | Time (ms): 619816 | Prop: -5.49 | Der: -1.60 | Int: 0.17 | Loop time (ms): 287
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 76.11 | Error: -6.11 | Output: -5.55 | Time (ms): 620103 | Prop: -5.50 | Der: -0.08 | Int: 0.03 | Loop time (ms): 288
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 76.04 | Error: -6.04 | Output: -5.22 | Time (ms): 620391 | Prop: -5.44 | Der: 0.33 | Int: -0.11 | Loop time (ms): 288
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 75.95 | Error: -5.95 | Output: -5.12 | Time (ms): 620679 | Prop: -5.35 | Der: 0.48 | Int: -0.24 | Loop time (ms): 286
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 75.85 | Error: -5.85 | Output: -5.19 | Time (ms): 620965 | Prop: -5.27 | Der: 0.46 | Int: -0.38 | Loop time (ms): 287
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 76.22 | Error: -6.22 | Output: -7.92 | Time (ms): 621253 | Prop: -5.60 | Der: -1.80 | Int: -0.52 | Loop time (ms): 288
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 76.04 | Error: -6.04 | Output: -5.18 | Time (ms): 621541 | Prop: -5.43 | Der: 0.91 | Int: -0.66 | Loop time (ms): 287
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 75.88 | Error: -5.88 | Output: -5.35 | Time (ms): 621828 | Prop: -5.30 | Der: 0.74 | Int: -0.79 | Loop time (ms): 286
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 75.24 | Error: -5.24 | Output: -2.51 | Time (ms): 622115 | Prop: -4.72 | Der: 3.12 | Int: -0.92 | Loop time (ms): 80
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 75.66 | Error: -5.66 | Output: -13.34 | Time (ms): 622195 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 290
-Target: 70.00 | Angle: 73.42 | Error: -3.42 | Output: -13.34 | Time (ms): 622486 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.61 | Error: -3.61 | Output: -13.34 | Time (ms): 622551 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.26 | Error: -3.26 | Output: -13.34 | Time (ms): 622615 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.03 | Error: -3.03 | Output: -13.34 | Time (ms): 622680 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.05 | Error: -3.05 | Output: -13.34 | Time (ms): 622744 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.19 | Error: -3.19 | Output: -13.34 | Time (ms): 622809 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.40 | Error: -3.40 | Output: -13.34 | Time (ms): 622872 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.57 | Error: -3.57 | Output: -13.34 | Time (ms): 622937 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -13.34 | Time (ms): 623001 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.85 | Error: -3.85 | Output: -13.34 | Time (ms): 623065 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.86 | Error: -3.86 | Output: -13.34 | Time (ms): 623129 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -13.34 | Time (ms): 623194 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -13.34 | Time (ms): 623257 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.85 | Error: -3.85 | Output: -13.34 | Time (ms): 623322 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.86 | Error: -3.86 | Output: -13.34 | Time (ms): 623387 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 623452 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 623516 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 623581 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 623645 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.07 | Error: -4.07 | Output: -13.34 | Time (ms): 623710 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.14 | Error: -4.14 | Output: -13.34 | Time (ms): 623774 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.07 | Error: -4.07 | Output: -13.34 | Time (ms): 623839 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 623902 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 623967 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.06 | Error: -4.06 | Output: -13.34 | Time (ms): 624031 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 624095 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.14 | Error: -4.14 | Output: -13.34 | Time (ms): 624159 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 66
-Target: 70.00 | Angle: 74.07 | Error: -4.07 | Output: -13.34 | Time (ms): 624225 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.03 | Error: -4.03 | Output: -13.34 | Time (ms): 624289 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 624354 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 624418 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.09 | Error: -4.09 | Output: -13.34 | Time (ms): 624482 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.09 | Error: -4.09 | Output: -13.34 | Time (ms): 624546 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.16 | Error: -4.16 | Output: -13.34 | Time (ms): 624611 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.07 | Error: -4.07 | Output: -13.34 | Time (ms): 624675 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.13 | Error: -4.13 | Output: -13.34 | Time (ms): 624739 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.14 | Error: -4.14 | Output: -13.34 | Time (ms): 624803 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.14 | Error: -4.14 | Output: -13.34 | Time (ms): 624868 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.18 | Error: -4.18 | Output: -13.34 | Time (ms): 624931 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.14 | Error: -4.14 | Output: -13.34 | Time (ms): 624996 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.10 | Error: -4.10 | Output: -13.34 | Time (ms): 625060 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 625124 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 625188 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 625253 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 625317 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 625382 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.96 | Error: -3.96 | Output: -13.34 | Time (ms): 625446 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.97 | Error: -3.97 | Output: -13.34 | Time (ms): 625511 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.99 | Error: -3.99 | Output: -13.34 | Time (ms): 625574 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.09 | Error: -4.09 | Output: -13.34 | Time (ms): 625639 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 625703 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.10 | Error: -4.10 | Output: -13.34 | Time (ms): 625767 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.03 | Error: -4.03 | Output: -13.34 | Time (ms): 625831 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 625896 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 625959 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 626024 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 626089 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 626154 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.12 | Error: -4.12 | Output: -13.34 | Time (ms): 626219 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.10 | Error: -4.10 | Output: -13.34 | Time (ms): 626283 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.10 | Error: -4.10 | Output: -13.34 | Time (ms): 626348 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 626412 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 626477 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.06 | Error: -4.06 | Output: -13.34 | Time (ms): 626541 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 626605 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.09 | Error: -4.09 | Output: -13.34 | Time (ms): 626669 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.04 | Error: -4.04 | Output: -13.34 | Time (ms): 626734 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 626797 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.06 | Error: -4.06 | Output: -13.34 | Time (ms): 626862 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 626926 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 626990 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.97 | Error: -3.97 | Output: -13.34 | Time (ms): 627054 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 627119 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.98 | Error: -3.98 | Output: -13.34 | Time (ms): 627183 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.91 | Error: -3.91 | Output: -13.34 | Time (ms): 627248 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.89 | Error: -3.89 | Output: -13.34 | Time (ms): 627312 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.87 | Error: -3.87 | Output: -13.34 | Time (ms): 627377 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.93 | Error: -3.93 | Output: -13.34 | Time (ms): 627440 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.97 | Error: -3.97 | Output: -13.34 | Time (ms): 627505 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 627569 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 627633 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.03 | Error: -4.03 | Output: -13.34 | Time (ms): 627697 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.14 | Error: -4.14 | Output: -13.34 | Time (ms): 627762 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.14 | Error: -4.14 | Output: -13.34 | Time (ms): 627825 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.13 | Error: -4.13 | Output: -13.34 | Time (ms): 627890 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.17 | Error: -4.17 | Output: -13.34 | Time (ms): 627954 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.11 | Error: -4.11 | Output: -13.34 | Time (ms): 628019 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.07 | Error: -4.07 | Output: -13.34 | Time (ms): 628083 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.03 | Error: -4.03 | Output: -13.34 | Time (ms): 628148 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 628212 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.99 | Error: -3.99 | Output: -13.34 | Time (ms): 628276 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.03 | Error: -4.03 | Output: -13.34 | Time (ms): 628340 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 628405 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.96 | Error: -3.96 | Output: -13.34 | Time (ms): 628468 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.98 | Error: -3.98 | Output: -13.34 | Time (ms): 628533 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.04 | Error: -4.04 | Output: -13.34 | Time (ms): 628597 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 628661 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.97 | Error: -3.97 | Output: -13.34 | Time (ms): 628725 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.99 | Error: -3.99 | Output: -13.34 | Time (ms): 628790 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 628854 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 628919 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 628983 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.05 | Error: -4.05 | Output: -13.34 | Time (ms): 629047 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 629111 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 629176 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.98 | Error: -3.98 | Output: -13.34 | Time (ms): 629240 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 629304 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.99 | Error: -3.99 | Output: -13.34 | Time (ms): 629368 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 629433 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 629496 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 629561 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.00 | Error: -4.00 | Output: -13.34 | Time (ms): 629625 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 629689 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 74.08 | Error: -4.08 | Output: -13.34 | Time (ms): 629753 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.02 | Error: -4.02 | Output: -13.34 | Time (ms): 629818 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 629881 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.89 | Error: -3.89 | Output: -13.34 | Time (ms): 629946 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.87 | Error: -3.87 | Output: -13.34 | Time (ms): 630010 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.89 | Error: -3.89 | Output: -13.34 | Time (ms): 630075 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.83 | Error: -3.83 | Output: -13.34 | Time (ms): 630139 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.82 | Error: -3.82 | Output: -13.34 | Time (ms): 630204 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.89 | Error: -3.89 | Output: -13.34 | Time (ms): 630269 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.93 | Error: -3.93 | Output: -13.34 | Time (ms): 630333 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.97 | Error: -3.97 | Output: -13.34 | Time (ms): 630397 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 630462 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 630525 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 630590 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 630654 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.93 | Error: -3.93 | Output: -13.34 | Time (ms): 630718 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.90 | Error: -3.90 | Output: -13.34 | Time (ms): 630782 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 630846 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.87 | Error: -3.87 | Output: -13.34 | Time (ms): 630910 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.88 | Error: -3.88 | Output: -13.34 | Time (ms): 630975 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.89 | Error: -3.89 | Output: -13.34 | Time (ms): 631040 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 631104 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 631168 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 631232 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.96 | Error: -3.96 | Output: -13.34 | Time (ms): 631297 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.94 | Error: -3.94 | Output: -13.34 | Time (ms): 631360 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.91 | Error: -3.91 | Output: -13.34 | Time (ms): 631425 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.90 | Error: -3.90 | Output: -13.34 | Time (ms): 631489 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.91 | Error: -3.91 | Output: -13.34 | Time (ms): 631553 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.91 | Error: -3.91 | Output: -13.34 | Time (ms): 631617 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 66
-Target: 70.00 | Angle: 73.90 | Error: -3.90 | Output: -13.34 | Time (ms): 631683 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.89 | Error: -3.89 | Output: -13.34 | Time (ms): 631747 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.90 | Error: -3.90 | Output: -13.34 | Time (ms): 631812 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.94 | Error: -3.94 | Output: -13.34 | Time (ms): 631876 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.98 | Error: -3.98 | Output: -13.34 | Time (ms): 631941 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.90 | Error: -3.90 | Output: -13.34 | Time (ms): 632005 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.85 | Error: -3.85 | Output: -13.34 | Time (ms): 632070 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.84 | Error: -3.84 | Output: -13.34 | Time (ms): 632135 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.84 | Error: -3.84 | Output: -13.34 | Time (ms): 632199 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.85 | Error: -3.85 | Output: -13.34 | Time (ms): 632263 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.89 | Error: -3.89 | Output: -13.34 | Time (ms): 632328 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.93 | Error: -3.93 | Output: -13.34 | Time (ms): 632391 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.93 | Error: -3.93 | Output: -13.34 | Time (ms): 632456 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.96 | Error: -3.96 | Output: -13.34 | Time (ms): 632520 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.96 | Error: -3.96 | Output: -13.34 | Time (ms): 632584 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 632648 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 74.01 | Error: -4.01 | Output: -13.34 | Time (ms): 632713 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.97 | Error: -3.97 | Output: -13.34 | Time (ms): 632777 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.94 | Error: -3.94 | Output: -13.34 | Time (ms): 632842 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 632906 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 632971 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.99 | Error: -3.99 | Output: -13.34 | Time (ms): 633034 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.96 | Error: -3.96 | Output: -13.34 | Time (ms): 633099 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.95 | Error: -3.95 | Output: -13.34 | Time (ms): 633164 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.96 | Error: -3.96 | Output: -13.34 | Time (ms): 633228 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.93 | Error: -3.93 | Output: -13.34 | Time (ms): 633292 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.92 | Error: -3.92 | Output: -13.34 | Time (ms): 633357 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.85 | Error: -3.85 | Output: -13.34 | Time (ms): 633420 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.81 | Error: -3.81 | Output: -13.34 | Time (ms): 633485 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -13.34 | Time (ms): 633549 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -13.34 | Time (ms): 633613 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.74 | Error: -3.74 | Output: -13.34 | Time (ms): 633677 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -13.34 | Time (ms): 633742 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.71 | Error: -3.71 | Output: -13.34 | Time (ms): 633806 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -13.34 | Time (ms): 633871 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -13.34 | Time (ms): 633935 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -13.34 | Time (ms): 634000 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -13.34 | Time (ms): 634063 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.83 | Error: -3.83 | Output: -13.34 | Time (ms): 634128 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.80 | Error: -3.80 | Output: -13.34 | Time (ms): 634192 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.80 | Error: -3.80 | Output: -13.34 | Time (ms): 634256 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.82 | Error: -3.82 | Output: -13.34 | Time (ms): 634320 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.81 | Error: -3.81 | Output: -13.34 | Time (ms): 634384 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.78 | Error: -3.78 | Output: -13.34 | Time (ms): 634447 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.79 | Error: -3.79 | Output: -13.34 | Time (ms): 634512 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -13.34 | Time (ms): 634577 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.79 | Error: -3.79 | Output: -13.34 | Time (ms): 634642 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.82 | Error: -3.82 | Output: -13.34 | Time (ms): 634706 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.82 | Error: -3.82 | Output: -13.34 | Time (ms): 634771 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -13.34 | Time (ms): 634835 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.71 | Error: -3.71 | Output: -13.34 | Time (ms): 634899 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -13.34 | Time (ms): 634963 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -13.34 | Time (ms): 635028 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.63 | Error: -3.63 | Output: -13.34 | Time (ms): 635091 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.67 | Error: -3.67 | Output: -13.34 | Time (ms): 635156 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -13.34 | Time (ms): 635220 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.83 | Error: -3.83 | Output: -13.34 | Time (ms): 635284 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.79 | Error: -3.79 | Output: -13.34 | Time (ms): 635348 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -13.34 | Time (ms): 635413 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.73 | Error: -3.73 | Output: -13.34 | Time (ms): 635478 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -13.34 | Time (ms): 635542 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.70 | Error: -3.70 | Output: -13.34 | Time (ms): 635607 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.69 | Error: -3.69 | Output: -13.34 | Time (ms): 635671 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -13.34 | Time (ms): 635735 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -13.34 | Time (ms): 635800 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 66
-Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -13.34 | Time (ms): 635866 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.81 | Error: -3.81 | Output: -13.34 | Time (ms): 635929 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.79 | Error: -3.79 | Output: -13.34 | Time (ms): 635994 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.78 | Error: -3.78 | Output: -13.34 | Time (ms): 636058 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -13.34 | Time (ms): 636122 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.82 | Error: -3.82 | Output: -13.34 | Time (ms): 636186 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.75 | Error: -3.75 | Output: -13.34 | Time (ms): 636251 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.78 | Error: -3.78 | Output: -13.34 | Time (ms): 636314 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -13.34 | Time (ms): 636379 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.78 | Error: -3.78 | Output: -13.34 | Time (ms): 636443 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.81 | Error: -3.81 | Output: -13.34 | Time (ms): 636508 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.86 | Error: -3.86 | Output: -13.34 | Time (ms): 636572 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.87 | Error: -3.87 | Output: -13.34 | Time (ms): 636637 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.79 | Error: -3.79 | Output: -13.34 | Time (ms): 636701 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.87 | Error: -3.87 | Output: -13.34 | Time (ms): 636765 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.83 | Error: -3.83 | Output: -13.34 | Time (ms): 636830 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 66
-Target: 70.00 | Angle: 73.82 | Error: -3.82 | Output: -13.34 | Time (ms): 636896 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.80 | Error: -3.80 | Output: -13.34 | Time (ms): 636959 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.79 | Error: -3.79 | Output: -13.34 | Time (ms): 637024 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.77 | Error: -3.77 | Output: -13.34 | Time (ms): 637088 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.71 | Error: -3.71 | Output: -13.34 | Time (ms): 637152 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -13.34 | Time (ms): 637216 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.64 | Error: -3.64 | Output: -13.34 | Time (ms): 637281 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.66 | Error: -3.66 | Output: -13.34 | Time (ms): 637344 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.62 | Error: -3.62 | Output: -13.34 | Time (ms): 637409 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -13.34 | Time (ms): 637473 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.68 | Error: -3.68 | Output: -13.34 | Time (ms): 637538 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 63
-Target: 70.00 | Angle: 73.72 | Error: -3.72 | Output: -13.34 | Time (ms): 637602 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 65
-Target: 70.00 | Angle: 73.76 | Error: -3.76 | Output: -13.34 | Time (ms): 637667 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-Target: 70.00 | Angle: 73.65 | Error: -3.65 | Output: -13.34 | Time (ms): 637731 | Prop: -5.09 | Der: -7.29 | Int: -0.95 | Loop time (ms): 64
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 6
+70.00;70.06;-0.06;0.00;617764;0.00;0.00;0.00;64
+70.00;57.35;12.65;289.50;617828;11.39;278.05;0.06;566
+70.00;61.74;8.26;-3.00;618394;7.43;-10.87;0.44;79
+70.00;64.08;5.92;-35.56;618473;5.33;-41.37;0.48;312
+70.00;66.89;3.11;-35.56;618785;5.33;-41.37;0.48;64
+70.00;68.47;1.53;-35.56;618849;5.33;-41.37;0.48;63
+70.00;70.46;-0.46;-35.56;618912;5.33;-41.37;0.48;64
+70.00;71.84;-1.84;-35.56;618977;5.33;-41.37;0.48;64
+70.00;72.75;-2.75;-35.56;619041;5.33;-41.37;0.48;65
+70.00;73.74;-3.74;-35.56;619106;5.33;-41.37;0.48;63
+70.00;74.56;-4.56;-35.56;619169;5.33;-41.37;0.48;64
+70.00;75.17;-5.17;-17.58;619233;-4.66;-13.37;0.45;295
+70.00;75.77;-5.77;-7.69;619528;-5.19;-2.81;0.31;288
+70.00;76.09;-6.09;-6.91;619816;-5.49;-1.60;0.17;287
+70.00;76.11;-6.11;-5.55;620103;-5.50;-0.08;0.03;288
+70.00;76.04;-6.04;-5.22;620391;-5.44;0.33;-0.11;288
+70.00;75.95;-5.95;-5.12;620679;-5.35;0.48;-0.24;286
+70.00;75.85;-5.85;-5.19;620965;-5.27;0.46;-0.38;287
+70.00;76.22;-6.22;-7.92;621253;-5.60;-1.80;-0.52;288
+70.00;76.04;-6.04;-5.18;621541;-5.43;0.91;-0.66;287
+70.00;75.88;-5.88;-5.35;621828;-5.30;0.74;-0.79;286
+70.00;75.24;-5.24;-2.51;622115;-4.72;3.12;-0.92;80
+70.00;75.66;-5.66;-13.34;622195;-5.09;-7.29;-0.95;290
+70.00;73.42;-3.42;-13.34;622486;-5.09;-7.29;-0.95;65
+70.00;73.61;-3.61;-13.34;622551;-5.09;-7.29;-0.95;64
+70.00;73.26;-3.26;-13.34;622615;-5.09;-7.29;-0.95;64
+70.00;73.03;-3.03;-13.34;622680;-5.09;-7.29;-0.95;64
+70.00;73.05;-3.05;-13.34;622744;-5.09;-7.29;-0.95;65
+70.00;73.19;-3.19;-13.34;622809;-5.09;-7.29;-0.95;63
+70.00;73.40;-3.40;-13.34;622872;-5.09;-7.29;-0.95;65
+70.00;73.57;-3.57;-13.34;622937;-5.09;-7.29;-0.95;64
+70.00;73.72;-3.72;-13.34;623001;-5.09;-7.29;-0.95;64
+70.00;73.85;-3.85;-13.34;623065;-5.09;-7.29;-0.95;64
+70.00;73.86;-3.86;-13.34;623129;-5.09;-7.29;-0.95;65
+70.00;73.77;-3.77;-13.34;623194;-5.09;-7.29;-0.95;63
+70.00;73.76;-3.76;-13.34;623257;-5.09;-7.29;-0.95;64
+70.00;73.85;-3.85;-13.34;623322;-5.09;-7.29;-0.95;65
+70.00;73.86;-3.86;-13.34;623387;-5.09;-7.29;-0.95;65
+70.00;73.92;-3.92;-13.34;623452;-5.09;-7.29;-0.95;63
+70.00;74.00;-4.00;-13.34;623516;-5.09;-7.29;-0.95;65
+70.00;74.05;-4.05;-13.34;623581;-5.09;-7.29;-0.95;64
+70.00;74.08;-4.08;-13.34;623645;-5.09;-7.29;-0.95;64
+70.00;74.07;-4.07;-13.34;623710;-5.09;-7.29;-0.95;64
+70.00;74.14;-4.14;-13.34;623774;-5.09;-7.29;-0.95;65
+70.00;74.07;-4.07;-13.34;623839;-5.09;-7.29;-0.95;63
+70.00;74.05;-4.05;-13.34;623902;-5.09;-7.29;-0.95;65
+70.00;74.08;-4.08;-13.34;623967;-5.09;-7.29;-0.95;64
+70.00;74.06;-4.06;-13.34;624031;-5.09;-7.29;-0.95;64
+70.00;74.05;-4.05;-13.34;624095;-5.09;-7.29;-0.95;63
+70.00;74.14;-4.14;-13.34;624159;-5.09;-7.29;-0.95;66
+70.00;74.07;-4.07;-13.34;624225;-5.09;-7.29;-0.95;64
+70.00;74.03;-4.03;-13.34;624289;-5.09;-7.29;-0.95;64
+70.00;74.02;-4.02;-13.34;624354;-5.09;-7.29;-0.95;64
+70.00;74.05;-4.05;-13.34;624418;-5.09;-7.29;-0.95;64
+70.00;74.09;-4.09;-13.34;624482;-5.09;-7.29;-0.95;63
+70.00;74.09;-4.09;-13.34;624546;-5.09;-7.29;-0.95;65
+70.00;74.16;-4.16;-13.34;624611;-5.09;-7.29;-0.95;64
+70.00;74.07;-4.07;-13.34;624675;-5.09;-7.29;-0.95;64
+70.00;74.13;-4.13;-13.34;624739;-5.09;-7.29;-0.95;64
+70.00;74.14;-4.14;-13.34;624803;-5.09;-7.29;-0.95;65
+70.00;74.14;-4.14;-13.34;624868;-5.09;-7.29;-0.95;63
+70.00;74.18;-4.18;-13.34;624931;-5.09;-7.29;-0.95;65
+70.00;74.14;-4.14;-13.34;624996;-5.09;-7.29;-0.95;64
+70.00;74.10;-4.10;-13.34;625060;-5.09;-7.29;-0.95;64
+70.00;74.08;-4.08;-13.34;625124;-5.09;-7.29;-0.95;63
+70.00;74.02;-4.02;-13.34;625188;-5.09;-7.29;-0.95;65
+70.00;74.02;-4.02;-13.34;625253;-5.09;-7.29;-0.95;64
+70.00;74.02;-4.02;-13.34;625317;-5.09;-7.29;-0.95;64
+70.00;73.95;-3.95;-13.34;625382;-5.09;-7.29;-0.95;64
+70.00;73.96;-3.96;-13.34;625446;-5.09;-7.29;-0.95;65
+70.00;73.97;-3.97;-13.34;625511;-5.09;-7.29;-0.95;63
+70.00;73.99;-3.99;-13.34;625574;-5.09;-7.29;-0.95;65
+70.00;74.09;-4.09;-13.34;625639;-5.09;-7.29;-0.95;64
+70.00;74.08;-4.08;-13.34;625703;-5.09;-7.29;-0.95;64
+70.00;74.10;-4.10;-13.34;625767;-5.09;-7.29;-0.95;64
+70.00;74.03;-4.03;-13.34;625831;-5.09;-7.29;-0.95;65
+70.00;74.02;-4.02;-13.34;625896;-5.09;-7.29;-0.95;63
+70.00;74.00;-4.00;-13.34;625959;-5.09;-7.29;-0.95;64
+70.00;74.05;-4.05;-13.34;626024;-5.09;-7.29;-0.95;65
+70.00;74.02;-4.02;-13.34;626089;-5.09;-7.29;-0.95;65
+70.00;74.05;-4.05;-13.34;626154;-5.09;-7.29;-0.95;63
+70.00;74.12;-4.12;-13.34;626219;-5.09;-7.29;-0.95;64
+70.00;74.10;-4.10;-13.34;626283;-5.09;-7.29;-0.95;65
+70.00;74.10;-4.10;-13.34;626348;-5.09;-7.29;-0.95;63
+70.00;74.08;-4.08;-13.34;626412;-5.09;-7.29;-0.95;65
+70.00;74.05;-4.05;-13.34;626477;-5.09;-7.29;-0.95;64
+70.00;74.06;-4.06;-13.34;626541;-5.09;-7.29;-0.95;64
+70.00;74.08;-4.08;-13.34;626605;-5.09;-7.29;-0.95;64
+70.00;74.09;-4.09;-13.34;626669;-5.09;-7.29;-0.95;65
+70.00;74.04;-4.04;-13.34;626734;-5.09;-7.29;-0.95;63
+70.00;74.01;-4.01;-13.34;626797;-5.09;-7.29;-0.95;65
+70.00;74.06;-4.06;-13.34;626862;-5.09;-7.29;-0.95;64
+70.00;74.00;-4.00;-13.34;626926;-5.09;-7.29;-0.95;64
+70.00;74.00;-4.00;-13.34;626990;-5.09;-7.29;-0.95;63
+70.00;73.97;-3.97;-13.34;627054;-5.09;-7.29;-0.95;65
+70.00;74.01;-4.01;-13.34;627119;-5.09;-7.29;-0.95;64
+70.00;73.98;-3.98;-13.34;627183;-5.09;-7.29;-0.95;64
+70.00;73.91;-3.91;-13.34;627248;-5.09;-7.29;-0.95;64
+70.00;73.89;-3.89;-13.34;627312;-5.09;-7.29;-0.95;65
+70.00;73.87;-3.87;-13.34;627377;-5.09;-7.29;-0.95;63
+70.00;73.93;-3.93;-13.34;627440;-5.09;-7.29;-0.95;65
+70.00;73.97;-3.97;-13.34;627505;-5.09;-7.29;-0.95;64
+70.00;73.95;-3.95;-13.34;627569;-5.09;-7.29;-0.95;64
+70.00;74.05;-4.05;-13.34;627633;-5.09;-7.29;-0.95;64
+70.00;74.03;-4.03;-13.34;627697;-5.09;-7.29;-0.95;65
+70.00;74.14;-4.14;-13.34;627762;-5.09;-7.29;-0.95;63
+70.00;74.14;-4.14;-13.34;627825;-5.09;-7.29;-0.95;64
+70.00;74.13;-4.13;-13.34;627890;-5.09;-7.29;-0.95;64
+70.00;74.17;-4.17;-13.34;627954;-5.09;-7.29;-0.95;65
+70.00;74.11;-4.11;-13.34;628019;-5.09;-7.29;-0.95;63
+70.00;74.07;-4.07;-13.34;628083;-5.09;-7.29;-0.95;65
+70.00;74.03;-4.03;-13.34;628148;-5.09;-7.29;-0.95;64
+70.00;74.01;-4.01;-13.34;628212;-5.09;-7.29;-0.95;64
+70.00;73.99;-3.99;-13.34;628276;-5.09;-7.29;-0.95;64
+70.00;74.03;-4.03;-13.34;628340;-5.09;-7.29;-0.95;65
+70.00;74.00;-4.00;-13.34;628405;-5.09;-7.29;-0.95;63
+70.00;73.96;-3.96;-13.34;628468;-5.09;-7.29;-0.95;65
+70.00;73.98;-3.98;-13.34;628533;-5.09;-7.29;-0.95;64
+70.00;74.04;-4.04;-13.34;628597;-5.09;-7.29;-0.95;64
+70.00;74.01;-4.01;-13.34;628661;-5.09;-7.29;-0.95;63
+70.00;73.97;-3.97;-13.34;628725;-5.09;-7.29;-0.95;65
+70.00;73.99;-3.99;-13.34;628790;-5.09;-7.29;-0.95;64
+70.00;74.00;-4.00;-13.34;628854;-5.09;-7.29;-0.95;64
+70.00;74.02;-4.02;-13.34;628919;-5.09;-7.29;-0.95;64
+70.00;74.00;-4.00;-13.34;628983;-5.09;-7.29;-0.95;64
+70.00;74.05;-4.05;-13.34;629047;-5.09;-7.29;-0.95;63
+70.00;74.08;-4.08;-13.34;629111;-5.09;-7.29;-0.95;65
+70.00;74.02;-4.02;-13.34;629176;-5.09;-7.29;-0.95;64
+70.00;73.98;-3.98;-13.34;629240;-5.09;-7.29;-0.95;64
+70.00;74.00;-4.00;-13.34;629304;-5.09;-7.29;-0.95;64
+70.00;73.99;-3.99;-13.34;629368;-5.09;-7.29;-0.95;65
+70.00;74.01;-4.01;-13.34;629433;-5.09;-7.29;-0.95;63
+70.00;74.00;-4.00;-13.34;629496;-5.09;-7.29;-0.95;65
+70.00;74.01;-4.01;-13.34;629561;-5.09;-7.29;-0.95;64
+70.00;74.00;-4.00;-13.34;629625;-5.09;-7.29;-0.95;64
+70.00;74.01;-4.01;-13.34;629689;-5.09;-7.29;-0.95;64
+70.00;74.08;-4.08;-13.34;629753;-5.09;-7.29;-0.95;65
+70.00;74.02;-4.02;-13.34;629818;-5.09;-7.29;-0.95;63
+70.00;73.95;-3.95;-13.34;629881;-5.09;-7.29;-0.95;64
+70.00;73.89;-3.89;-13.34;629946;-5.09;-7.29;-0.95;64
+70.00;73.87;-3.87;-13.34;630010;-5.09;-7.29;-0.95;65
+70.00;73.89;-3.89;-13.34;630075;-5.09;-7.29;-0.95;63
+70.00;73.83;-3.83;-13.34;630139;-5.09;-7.29;-0.95;65
+70.00;73.82;-3.82;-13.34;630204;-5.09;-7.29;-0.95;65
+70.00;73.89;-3.89;-13.34;630269;-5.09;-7.29;-0.95;64
+70.00;73.93;-3.93;-13.34;630333;-5.09;-7.29;-0.95;64
+70.00;73.97;-3.97;-13.34;630397;-5.09;-7.29;-0.95;65
+70.00;73.92;-3.92;-13.34;630462;-5.09;-7.29;-0.95;63
+70.00;73.95;-3.95;-13.34;630525;-5.09;-7.29;-0.95;65
+70.00;73.95;-3.95;-13.34;630590;-5.09;-7.29;-0.95;64
+70.00;73.92;-3.92;-13.34;630654;-5.09;-7.29;-0.95;64
+70.00;73.93;-3.93;-13.34;630718;-5.09;-7.29;-0.95;63
+70.00;73.90;-3.90;-13.34;630782;-5.09;-7.29;-0.95;64
+70.00;73.92;-3.92;-13.34;630846;-5.09;-7.29;-0.95;64
+70.00;73.87;-3.87;-13.34;630910;-5.09;-7.29;-0.95;64
+70.00;73.88;-3.88;-13.34;630975;-5.09;-7.29;-0.95;65
+70.00;73.89;-3.89;-13.34;631040;-5.09;-7.29;-0.95;64
+70.00;73.95;-3.95;-13.34;631104;-5.09;-7.29;-0.95;64
+70.00;73.92;-3.92;-13.34;631168;-5.09;-7.29;-0.95;64
+70.00;73.92;-3.92;-13.34;631232;-5.09;-7.29;-0.95;65
+70.00;73.96;-3.96;-13.34;631297;-5.09;-7.29;-0.95;63
+70.00;73.94;-3.94;-13.34;631360;-5.09;-7.29;-0.95;65
+70.00;73.91;-3.91;-13.34;631425;-5.09;-7.29;-0.95;64
+70.00;73.90;-3.90;-13.34;631489;-5.09;-7.29;-0.95;64
+70.00;73.91;-3.91;-13.34;631553;-5.09;-7.29;-0.95;63
+70.00;73.91;-3.91;-13.34;631617;-5.09;-7.29;-0.95;66
+70.00;73.90;-3.90;-13.34;631683;-5.09;-7.29;-0.95;64
+70.00;73.89;-3.89;-13.34;631747;-5.09;-7.29;-0.95;64
+70.00;73.90;-3.90;-13.34;631812;-5.09;-7.29;-0.95;64
+70.00;73.94;-3.94;-13.34;631876;-5.09;-7.29;-0.95;65
+70.00;73.98;-3.98;-13.34;631941;-5.09;-7.29;-0.95;63
+70.00;73.90;-3.90;-13.34;632005;-5.09;-7.29;-0.95;65
+70.00;73.85;-3.85;-13.34;632070;-5.09;-7.29;-0.95;65
+70.00;73.84;-3.84;-13.34;632135;-5.09;-7.29;-0.95;64
+70.00;73.84;-3.84;-13.34;632199;-5.09;-7.29;-0.95;64
+70.00;73.85;-3.85;-13.34;632263;-5.09;-7.29;-0.95;65
+70.00;73.89;-3.89;-13.34;632328;-5.09;-7.29;-0.95;63
+70.00;73.93;-3.93;-13.34;632391;-5.09;-7.29;-0.95;65
+70.00;73.93;-3.93;-13.34;632456;-5.09;-7.29;-0.95;64
+70.00;73.96;-3.96;-13.34;632520;-5.09;-7.29;-0.95;64
+70.00;73.96;-3.96;-13.34;632584;-5.09;-7.29;-0.95;63
+70.00;74.01;-4.01;-13.34;632648;-5.09;-7.29;-0.95;65
+70.00;74.01;-4.01;-13.34;632713;-5.09;-7.29;-0.95;64
+70.00;73.97;-3.97;-13.34;632777;-5.09;-7.29;-0.95;64
+70.00;73.94;-3.94;-13.34;632842;-5.09;-7.29;-0.95;64
+70.00;73.95;-3.95;-13.34;632906;-5.09;-7.29;-0.95;65
+70.00;73.92;-3.92;-13.34;632971;-5.09;-7.29;-0.95;63
+70.00;73.99;-3.99;-13.34;633034;-5.09;-7.29;-0.95;65
+70.00;73.96;-3.96;-13.34;633099;-5.09;-7.29;-0.95;65
+70.00;73.95;-3.95;-13.34;633164;-5.09;-7.29;-0.95;64
+70.00;73.96;-3.96;-13.34;633228;-5.09;-7.29;-0.95;64
+70.00;73.93;-3.93;-13.34;633292;-5.09;-7.29;-0.95;65
+70.00;73.92;-3.92;-13.34;633357;-5.09;-7.29;-0.95;63
+70.00;73.85;-3.85;-13.34;633420;-5.09;-7.29;-0.95;65
+70.00;73.81;-3.81;-13.34;633485;-5.09;-7.29;-0.95;64
+70.00;73.72;-3.72;-13.34;633549;-5.09;-7.29;-0.95;64
+70.00;73.73;-3.73;-13.34;633613;-5.09;-7.29;-0.95;63
+70.00;73.74;-3.74;-13.34;633677;-5.09;-7.29;-0.95;65
+70.00;73.69;-3.69;-13.34;633742;-5.09;-7.29;-0.95;64
+70.00;73.71;-3.71;-13.34;633806;-5.09;-7.29;-0.95;64
+70.00;73.70;-3.70;-13.34;633871;-5.09;-7.29;-0.95;64
+70.00;73.73;-3.73;-13.34;633935;-5.09;-7.29;-0.95;65
+70.00;73.72;-3.72;-13.34;634000;-5.09;-7.29;-0.95;63
+70.00;73.76;-3.76;-13.34;634063;-5.09;-7.29;-0.95;65
+70.00;73.83;-3.83;-13.34;634128;-5.09;-7.29;-0.95;64
+70.00;73.80;-3.80;-13.34;634192;-5.09;-7.29;-0.95;64
+70.00;73.80;-3.80;-13.34;634256;-5.09;-7.29;-0.95;64
+70.00;73.82;-3.82;-13.34;634320;-5.09;-7.29;-0.95;64
+70.00;73.81;-3.81;-13.34;634384;-5.09;-7.29;-0.95;63
+70.00;73.78;-3.78;-13.34;634447;-5.09;-7.29;-0.95;64
+70.00;73.79;-3.79;-13.34;634512;-5.09;-7.29;-0.95;65
+70.00;73.73;-3.73;-13.34;634577;-5.09;-7.29;-0.95;65
+70.00;73.79;-3.79;-13.34;634642;-5.09;-7.29;-0.95;63
+70.00;73.82;-3.82;-13.34;634706;-5.09;-7.29;-0.95;65
+70.00;73.82;-3.82;-13.34;634771;-5.09;-7.29;-0.95;64
+70.00;73.77;-3.77;-13.34;634835;-5.09;-7.29;-0.95;64
+70.00;73.71;-3.71;-13.34;634899;-5.09;-7.29;-0.95;64
+70.00;73.63;-3.63;-13.34;634963;-5.09;-7.29;-0.95;65
+70.00;73.64;-3.64;-13.34;635028;-5.09;-7.29;-0.95;63
+70.00;73.63;-3.63;-13.34;635091;-5.09;-7.29;-0.95;65
+70.00;73.67;-3.67;-13.34;635156;-5.09;-7.29;-0.95;64
+70.00;73.76;-3.76;-13.34;635220;-5.09;-7.29;-0.95;64
+70.00;73.83;-3.83;-13.34;635284;-5.09;-7.29;-0.95;64
+70.00;73.79;-3.79;-13.34;635348;-5.09;-7.29;-0.95;65
+70.00;73.77;-3.77;-13.34;635413;-5.09;-7.29;-0.95;65
+70.00;73.73;-3.73;-13.34;635478;-5.09;-7.29;-0.95;63
+70.00;73.72;-3.72;-13.34;635542;-5.09;-7.29;-0.95;65
+70.00;73.70;-3.70;-13.34;635607;-5.09;-7.29;-0.95;64
+70.00;73.69;-3.69;-13.34;635671;-5.09;-7.29;-0.95;64
+70.00;73.64;-3.64;-13.34;635735;-5.09;-7.29;-0.95;65
+70.00;73.68;-3.68;-13.34;635800;-5.09;-7.29;-0.95;66
+70.00;73.77;-3.77;-13.34;635866;-5.09;-7.29;-0.95;63
+70.00;73.81;-3.81;-13.34;635929;-5.09;-7.29;-0.95;65
+70.00;73.79;-3.79;-13.34;635994;-5.09;-7.29;-0.95;64
+70.00;73.78;-3.78;-13.34;636058;-5.09;-7.29;-0.95;64
+70.00;73.72;-3.72;-13.34;636122;-5.09;-7.29;-0.95;64
+70.00;73.82;-3.82;-13.34;636186;-5.09;-7.29;-0.95;65
+70.00;73.75;-3.75;-13.34;636251;-5.09;-7.29;-0.95;63
+70.00;73.78;-3.78;-13.34;636314;-5.09;-7.29;-0.95;64
+70.00;73.77;-3.77;-13.34;636379;-5.09;-7.29;-0.95;64
+70.00;73.78;-3.78;-13.34;636443;-5.09;-7.29;-0.95;65
+70.00;73.81;-3.81;-13.34;636508;-5.09;-7.29;-0.95;63
+70.00;73.86;-3.86;-13.34;636572;-5.09;-7.29;-0.95;65
+70.00;73.87;-3.87;-13.34;636637;-5.09;-7.29;-0.95;64
+70.00;73.79;-3.79;-13.34;636701;-5.09;-7.29;-0.95;64
+70.00;73.87;-3.87;-13.34;636765;-5.09;-7.29;-0.95;65
+70.00;73.83;-3.83;-13.34;636830;-5.09;-7.29;-0.95;66
+70.00;73.82;-3.82;-13.34;636896;-5.09;-7.29;-0.95;63
+70.00;73.80;-3.80;-13.34;636959;-5.09;-7.29;-0.95;65
+70.00;73.79;-3.79;-13.34;637024;-5.09;-7.29;-0.95;64
+70.00;73.77;-3.77;-13.34;637088;-5.09;-7.29;-0.95;64
+70.00;73.71;-3.71;-13.34;637152;-5.09;-7.29;-0.95;64
+70.00;73.64;-3.64;-13.34;637216;-5.09;-7.29;-0.95;65
+70.00;73.64;-3.64;-13.34;637281;-5.09;-7.29;-0.95;63
+70.00;73.66;-3.66;-13.34;637344;-5.09;-7.29;-0.95;64
+70.00;73.62;-3.62;-13.34;637409;-5.09;-7.29;-0.95;64
+70.00;73.65;-3.65;-13.34;637473;-5.09;-7.29;-0.95;65
+70.00;73.68;-3.68;-13.34;637538;-5.09;-7.29;-0.95;63
+70.00;73.72;-3.72;-13.34;637602;-5.09;-7.29;-0.95;65
+70.00;73.76;-3.76;-13.34;637667;-5.09;-7.29;-0.95;64
+70.00;73.65;-3.65;-13.34;637731;-5.09;-7.29;-0.95;64
