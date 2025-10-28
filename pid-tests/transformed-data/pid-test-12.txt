@@ -1,176 +1,99 @@
-Target: 70.00 | Angle: -5.55 | Error: 75.55 | Output: 68.36 | Time (ms): 496986 | Prop: 67.99 | Der: 0.35 | Int: 0.02 | Loop time (ms): 117
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 70.00 | Angle: -5.69 | Error: 75.69 | Output: 70.60 | Time (ms): 497103 | Prop: 68.12 | Der: 1.75 | Int: 0.73 | Loop time (ms): 401
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 37.57 | Error: 32.43 | Output: -120.09 | Time (ms): 497504 | Prop: 29.19 | Der: -151.04 | Int: 1.77 | Loop time (ms): 449
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 70.00 | Angle: 6.85 | Error: 63.15 | Output: 156.67 | Time (ms): 497953 | Prop: 56.84 | Der: 95.79 | Int: 4.04 | Loop time (ms): 486
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 70.00 | Angle: 53.70 | Error: 16.30 | Output: -115.35 | Time (ms): 498440 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 445
-Target: 70.00 | Angle: 71.48 | Error: -1.48 | Output: -115.35 | Time (ms): 498885 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 70.51 | Error: -0.51 | Output: -115.35 | Time (ms): 499003 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.91 | Error: 0.09 | Output: -115.35 | Time (ms): 499120 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.47 | Error: 0.53 | Output: -115.35 | Time (ms): 499237 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.38 | Error: 0.62 | Output: -115.35 | Time (ms): 499355 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.26 | Error: 0.74 | Output: -115.35 | Time (ms): 499472 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 115
-Target: 70.00 | Angle: 69.28 | Error: 0.72 | Output: -115.35 | Time (ms): 499588 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.33 | Error: 0.67 | Output: -115.35 | Time (ms): 499704 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.40 | Error: 0.60 | Output: -115.35 | Time (ms): 499822 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.42 | Error: 0.58 | Output: -115.35 | Time (ms): 499940 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.44 | Error: 0.56 | Output: -115.35 | Time (ms): 500058 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 115
-Target: 70.00 | Angle: 69.41 | Error: 0.59 | Output: -115.35 | Time (ms): 500174 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.51 | Error: 0.49 | Output: -115.35 | Time (ms): 500291 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.53 | Error: 0.47 | Output: -115.35 | Time (ms): 500408 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.50 | Error: 0.50 | Output: -115.35 | Time (ms): 500525 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 115
-Target: 70.00 | Angle: 69.62 | Error: 0.38 | Output: -115.35 | Time (ms): 500641 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.59 | Error: 0.41 | Output: -115.35 | Time (ms): 500758 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.60 | Error: 0.40 | Output: -115.35 | Time (ms): 500874 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 119
-Target: 70.00 | Angle: 69.35 | Error: 0.65 | Output: -115.35 | Time (ms): 500993 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.43 | Error: 0.57 | Output: -115.35 | Time (ms): 501109 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.44 | Error: 0.56 | Output: -115.35 | Time (ms): 501227 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.46 | Error: 0.54 | Output: -115.35 | Time (ms): 501344 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.52 | Error: 0.48 | Output: -115.35 | Time (ms): 501462 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.53 | Error: 0.47 | Output: -115.35 | Time (ms): 501579 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.49 | Error: 0.51 | Output: -115.35 | Time (ms): 501696 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.63 | Error: 0.37 | Output: -115.35 | Time (ms): 501812 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.51 | Error: 0.49 | Output: -115.35 | Time (ms): 501929 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.40 | Error: 0.60 | Output: -115.35 | Time (ms): 502047 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.56 | Error: 0.44 | Output: -115.35 | Time (ms): 502164 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.50 | Error: 0.50 | Output: -115.35 | Time (ms): 502281 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.45 | Error: 0.55 | Output: -115.35 | Time (ms): 502398 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.52 | Error: 0.48 | Output: -115.35 | Time (ms): 502515 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.48 | Error: 0.52 | Output: -115.35 | Time (ms): 502633 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.40 | Error: 0.60 | Output: -115.35 | Time (ms): 502751 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.53 | Error: 0.47 | Output: -115.35 | Time (ms): 502868 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.52 | Error: 0.48 | Output: -115.35 | Time (ms): 502985 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.53 | Error: 0.47 | Output: -115.35 | Time (ms): 503102 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.55 | Error: 0.45 | Output: -115.35 | Time (ms): 503219 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 115
-Target: 70.00 | Angle: 69.50 | Error: 0.50 | Output: -115.35 | Time (ms): 503335 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.65 | Error: 0.35 | Output: -115.35 | Time (ms): 503452 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.47 | Error: 0.53 | Output: -115.35 | Time (ms): 503569 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.56 | Error: 0.44 | Output: -115.35 | Time (ms): 503687 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 115
-Target: 70.00 | Angle: 69.47 | Error: 0.53 | Output: -115.35 | Time (ms): 503803 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.55 | Error: 0.45 | Output: -115.35 | Time (ms): 503920 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.50 | Error: 0.50 | Output: -115.35 | Time (ms): 504037 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.46 | Error: 0.54 | Output: -115.35 | Time (ms): 504154 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.49 | Error: 0.51 | Output: -115.35 | Time (ms): 504271 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.64 | Error: 0.36 | Output: -115.35 | Time (ms): 504388 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.60 | Error: 0.40 | Output: -115.35 | Time (ms): 504504 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.52 | Error: 0.48 | Output: -115.35 | Time (ms): 504622 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.44 | Error: 0.56 | Output: -115.35 | Time (ms): 504739 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.59 | Error: 0.41 | Output: -115.35 | Time (ms): 504857 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.53 | Error: 0.47 | Output: -115.35 | Time (ms): 504974 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.56 | Error: 0.44 | Output: -115.35 | Time (ms): 505091 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.49 | Error: 0.51 | Output: -115.35 | Time (ms): 505207 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.56 | Error: 0.44 | Output: -115.35 | Time (ms): 505324 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.55 | Error: 0.45 | Output: -115.35 | Time (ms): 505440 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.54 | Error: 0.46 | Output: -115.35 | Time (ms): 505558 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.44 | Error: 0.56 | Output: -115.35 | Time (ms): 505675 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.36 | Error: 0.64 | Output: -115.35 | Time (ms): 505793 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.43 | Error: 0.57 | Output: -115.35 | Time (ms): 505909 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.44 | Error: 0.56 | Output: -115.35 | Time (ms): 506027 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.53 | Error: 0.47 | Output: -115.35 | Time (ms): 506144 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.44 | Error: 0.56 | Output: -115.35 | Time (ms): 506262 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.65 | Error: 0.35 | Output: -115.35 | Time (ms): 506380 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-Target: 70.00 | Angle: 69.50 | Error: 0.50 | Output: -115.35 | Time (ms): 506498 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.42 | Error: 0.58 | Output: -115.35 | Time (ms): 506614 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 117
-Target: 70.00 | Angle: 69.49 | Error: 0.51 | Output: -115.35 | Time (ms): 506731 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.49 | Error: 0.51 | Output: -115.35 | Time (ms): 506848 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 116
-Target: 70.00 | Angle: 69.60 | Error: 0.40 | Output: -115.35 | Time (ms): 506964 | Prop: 14.67 | Der: -134.69 | Int: 4.67 | Loop time (ms): 118
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 69.52 | Error: -39.52 | Output: -300.00 | Time (ms): 507082 | Prop: -35.57 | Der: -420.00 | Int: 4.30 | Loop time (ms): 629
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 30.00 | Angle: 16.18 | Error: 13.82 | Output: 136.17 | Time (ms): 507711 | Prop: 12.44 | Der: 118.73 | Int: 4.99 | Loop time (ms): 466
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 50.29 | Error: -20.29 | Output: -116.49 | Time (ms): 508177 | Prop: -18.26 | Der: -102.47 | Int: 4.24 | Loop time (ms): 445
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 67.99 | Error: -37.99 | Output: -86.88 | Time (ms): 508623 | Prop: -34.19 | Der: -55.57 | Int: 2.88 | Loop time (ms): 417
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 30.00 | Angle: 15.74 | Error: 14.26 | Output: 191.62 | Time (ms): 509040 | Prop: 12.84 | Der: 175.43 | Int: 3.36 | Loop time (ms): 520
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 59.19 | Error: -29.19 | Output: -141.11 | Time (ms): 509560 | Prop: -26.27 | Der: -116.99 | Int: 2.14 | Loop time (ms): 472
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 74.08 | Error: -44.08 | Output: -83.38 | Time (ms): 510032 | Prop: -39.68 | Der: -44.18 | Int: 0.48 | Loop time (ms): 414
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 75.75 | Error: -45.75 | Output: -47.84 | Time (ms): 510447 | Prop: -41.18 | Der: -5.62 | Int: -1.04 | Loop time (ms): 379
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 30.00 | Angle: 23.45 | Error: 6.55 | Output: 197.76 | Time (ms): 510827 | Prop: 5.90 | Der: 192.70 | Int: -0.84 | Loop time (ms): 527
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 61.97 | Error: -31.97 | Output: -133.32 | Time (ms): 511354 | Prop: -28.78 | Der: -102.35 | Int: -2.19 | Loop time (ms): 463
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 73.62 | Error: -43.62 | Output: -78.29 | Time (ms): 511817 | Prop: -39.26 | Der: -35.22 | Int: -3.81 | Loop time (ms): 408
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 78.70 | Error: -48.70 | Output: -66.62 | Time (ms): 512226 | Prop: -43.83 | Der: -17.39 | Int: -5.40 | Loop time (ms): 397
-Target: 30.00 | Angle: 27.98 | Error: 2.02 | Output: -66.62 | Time (ms): 512623 | Prop: -43.83 | Der: -17.39 | Int: -5.40 | Loop time (ms): 117
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 30.00 | Angle: 14.68 | Error: 15.32 | Output: 167.76 | Time (ms): 512740 | Prop: 13.79 | Der: 159.22 | Int: -5.26 | Loop time (ms): 498
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 57.82 | Error: -27.82 | Output: -152.70 | Time (ms): 513238 | Prop: -25.04 | Der: -121.30 | Int: -6.36 | Loop time (ms): 482
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 72.08 | Error: -42.08 | Output: -87.26 | Time (ms): 513720 | Prop: -37.87 | Der: -41.40 | Int: -7.99 | Loop time (ms): 416
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 64.31 | Error: -34.31 | Output: -13.88 | Time (ms): 514136 | Prop: -30.88 | Der: 26.14 | Int: -9.13 | Loop time (ms): 344
-Target: 30.00 | Angle: 31.73 | Error: -1.73 | Output: -13.88 | Time (ms): 514480 | Prop: -30.88 | Der: 26.14 | Int: -9.13 | Loop time (ms): 117
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 30.00 | Angle: 18.04 | Error: 11.96 | Output: 165.45 | Time (ms): 514597 | Prop: 10.76 | Der: 163.70 | Int: -9.02 | Loop time (ms): 495
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 58.29 | Error: -28.29 | Output: -149.41 | Time (ms): 515092 | Prop: -25.46 | Der: -113.81 | Int: -10.14 | Loop time (ms): 479
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 71.95 | Error: -41.95 | Output: -89.45 | Time (ms): 515571 | Prop: -37.76 | Der: -39.95 | Int: -11.74 | Loop time (ms): 419
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-Target: 30.00 | Angle: 66.03 | Error: -36.03 | Output: -25.58 | Time (ms): 515990 | Prop: -32.43 | Der: 19.80 | Int: -12.95 | Loop time (ms): 355
-Target: 30.00 | Angle: 25.85 | Error: 4.15 | Output: -25.58 | Time (ms): 516345 | Prop: -32.43 | Der: 19.80 | Int: -12.95 | Loop time (ms): 118
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-Target: 30.00 | Angle: 7.02 | Error: 22.98 | Output: 231.32 | Time (ms): 516463 | Prop: 20.68 | Der: 223.38 | Int: -12.74 | Loop time (ms): 561
-PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 60
-PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+70.00;-5.55;75.55;68.36;496986;67.99;0.35;0.02;117
+70.00;-5.69;75.69;70.60;497103;68.12;1.75;0.73;401
+70.00;37.57;32.43;-120.09;497504;29.19;-151.04;1.77;449
+70.00;6.85;63.15;156.67;497953;56.84;95.79;4.04;486
+70.00;53.70;16.30;-115.35;498440;14.67;-134.69;4.67;445
+70.00;71.48;-1.48;-115.35;498885;14.67;-134.69;4.67;118
+70.00;70.51;-0.51;-115.35;499003;14.67;-134.69;4.67;116
+70.00;69.91;0.09;-115.35;499120;14.67;-134.69;4.67;117
+70.00;69.47;0.53;-115.35;499237;14.67;-134.69;4.67;118
+70.00;69.38;0.62;-115.35;499355;14.67;-134.69;4.67;117
+70.00;69.26;0.74;-115.35;499472;14.67;-134.69;4.67;115
+70.00;69.28;0.72;-115.35;499588;14.67;-134.69;4.67;116
+70.00;69.33;0.67;-115.35;499704;14.67;-134.69;4.67;118
+70.00;69.40;0.60;-115.35;499822;14.67;-134.69;4.67;118
+70.00;69.42;0.58;-115.35;499940;14.67;-134.69;4.67;118
+70.00;69.44;0.56;-115.35;500058;14.67;-134.69;4.67;115
+70.00;69.41;0.59;-115.35;500174;14.67;-134.69;4.67;117
+70.00;69.51;0.49;-115.35;500291;14.67;-134.69;4.67;117
+70.00;69.53;0.47;-115.35;500408;14.67;-134.69;4.67;117
+70.00;69.50;0.50;-115.35;500525;14.67;-134.69;4.67;115
+70.00;69.62;0.38;-115.35;500641;14.67;-134.69;4.67;116
+70.00;69.59;0.41;-115.35;500758;14.67;-134.69;4.67;116
+70.00;69.60;0.40;-115.35;500874;14.67;-134.69;4.67;119
+70.00;69.35;0.65;-115.35;500993;14.67;-134.69;4.67;116
+70.00;69.43;0.57;-115.35;501109;14.67;-134.69;4.67;117
+70.00;69.44;0.56;-115.35;501227;14.67;-134.69;4.67;117
+70.00;69.46;0.54;-115.35;501344;14.67;-134.69;4.67;118
+70.00;69.52;0.48;-115.35;501462;14.67;-134.69;4.67;117
+70.00;69.53;0.47;-115.35;501579;14.67;-134.69;4.67;116
+70.00;69.49;0.51;-115.35;501696;14.67;-134.69;4.67;116
+70.00;69.63;0.37;-115.35;501812;14.67;-134.69;4.67;117
+70.00;69.51;0.49;-115.35;501929;14.67;-134.69;4.67;118
+70.00;69.40;0.60;-115.35;502047;14.67;-134.69;4.67;117
+70.00;69.56;0.44;-115.35;502164;14.67;-134.69;4.67;116
+70.00;69.50;0.50;-115.35;502281;14.67;-134.69;4.67;117
+70.00;69.45;0.55;-115.35;502398;14.67;-134.69;4.67;117
+70.00;69.52;0.48;-115.35;502515;14.67;-134.69;4.67;118
+70.00;69.48;0.52;-115.35;502633;14.67;-134.69;4.67;117
+70.00;69.40;0.60;-115.35;502751;14.67;-134.69;4.67;117
+70.00;69.53;0.47;-115.35;502868;14.67;-134.69;4.67;117
+70.00;69.52;0.48;-115.35;502985;14.67;-134.69;4.67;117
+70.00;69.53;0.47;-115.35;503102;14.67;-134.69;4.67;117
+70.00;69.55;0.45;-115.35;503219;14.67;-134.69;4.67;115
+70.00;69.50;0.50;-115.35;503335;14.67;-134.69;4.67;117
+70.00;69.65;0.35;-115.35;503452;14.67;-134.69;4.67;117
+70.00;69.47;0.53;-115.35;503569;14.67;-134.69;4.67;118
+70.00;69.56;0.44;-115.35;503687;14.67;-134.69;4.67;115
+70.00;69.47;0.53;-115.35;503803;14.67;-134.69;4.67;117
+70.00;69.55;0.45;-115.35;503920;14.67;-134.69;4.67;117
+70.00;69.50;0.50;-115.35;504037;14.67;-134.69;4.67;117
+70.00;69.46;0.54;-115.35;504154;14.67;-134.69;4.67;116
+70.00;69.49;0.51;-115.35;504271;14.67;-134.69;4.67;117
+70.00;69.64;0.36;-115.35;504388;14.67;-134.69;4.67;116
+70.00;69.60;0.40;-115.35;504504;14.67;-134.69;4.67;118
+70.00;69.52;0.48;-115.35;504622;14.67;-134.69;4.67;117
+70.00;69.44;0.56;-115.35;504739;14.67;-134.69;4.67;117
+70.00;69.59;0.41;-115.35;504857;14.67;-134.69;4.67;117
+70.00;69.53;0.47;-115.35;504974;14.67;-134.69;4.67;117
+70.00;69.56;0.44;-115.35;505091;14.67;-134.69;4.67;116
+70.00;69.49;0.51;-115.35;505207;14.67;-134.69;4.67;116
+70.00;69.56;0.44;-115.35;505324;14.67;-134.69;4.67;116
+70.00;69.55;0.45;-115.35;505440;14.67;-134.69;4.67;118
+70.00;69.54;0.46;-115.35;505558;14.67;-134.69;4.67;117
+70.00;69.44;0.56;-115.35;505675;14.67;-134.69;4.67;117
+70.00;69.36;0.64;-115.35;505793;14.67;-134.69;4.67;116
+70.00;69.43;0.57;-115.35;505909;14.67;-134.69;4.67;118
+70.00;69.44;0.56;-115.35;506027;14.67;-134.69;4.67;117
+70.00;69.53;0.47;-115.35;506144;14.67;-134.69;4.67;118
+70.00;69.44;0.56;-115.35;506262;14.67;-134.69;4.67;117
+70.00;69.65;0.35;-115.35;506380;14.67;-134.69;4.67;118
+70.00;69.50;0.50;-115.35;506498;14.67;-134.69;4.67;116
+70.00;69.42;0.58;-115.35;506614;14.67;-134.69;4.67;117
+70.00;69.49;0.51;-115.35;506731;14.67;-134.69;4.67;116
+70.00;69.49;0.51;-115.35;506848;14.67;-134.69;4.67;116
+70.00;69.60;0.40;-115.35;506964;14.67;-134.69;4.67;118
+30.00;69.52;-39.52;-300.00;507082;-35.57;-420.00;4.30;629
+30.00;16.18;13.82;136.17;507711;12.44;118.73;4.99;466
+30.00;50.29;-20.29;-116.49;508177;-18.26;-102.47;4.24;445
+30.00;67.99;-37.99;-86.88;508623;-34.19;-55.57;2.88;417
+30.00;15.74;14.26;191.62;509040;12.84;175.43;3.36;520
+30.00;59.19;-29.19;-141.11;509560;-26.27;-116.99;2.14;472
+30.00;74.08;-44.08;-83.38;510032;-39.68;-44.18;0.48;414
+30.00;75.75;-45.75;-47.84;510447;-41.18;-5.62;-1.04;379
+30.00;23.45;6.55;197.76;510827;5.90;192.70;-0.84;527
+30.00;61.97;-31.97;-133.32;511354;-28.78;-102.35;-2.19;463
+30.00;73.62;-43.62;-78.29;511817;-39.26;-35.22;-3.81;408
+30.00;78.70;-48.70;-66.62;512226;-43.83;-17.39;-5.40;397
+30.00;27.98;2.02;-66.62;512623;-43.83;-17.39;-5.40;117
+30.00;14.68;15.32;167.76;512740;13.79;159.22;-5.26;498
+30.00;57.82;-27.82;-152.70;513238;-25.04;-121.30;-6.36;482
+30.00;72.08;-42.08;-87.26;513720;-37.87;-41.40;-7.99;416
+30.00;64.31;-34.31;-13.88;514136;-30.88;26.14;-9.13;344
+30.00;31.73;-1.73;-13.88;514480;-30.88;26.14;-9.13;117
+30.00;18.04;11.96;165.45;514597;10.76;163.70;-9.02;495
+30.00;58.29;-28.29;-149.41;515092;-25.46;-113.81;-10.14;479
+30.00;71.95;-41.95;-89.45;515571;-37.76;-39.95;-11.74;419
+30.00;66.03;-36.03;-25.58;515990;-32.43;19.80;-12.95;355
+30.00;25.85;4.15;-25.58;516345;-32.43;19.80;-12.95;118
+30.00;7.02;22.98;231.32;516463;20.68;223.38;-12.74;561
