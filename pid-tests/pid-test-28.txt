@@ -1,0 +1,278 @@
+Target: -20.00 | Angle: 2.22 | Error: -22.22 | Output: -4.45 | Time (ms): 359235 | Prop: -4.44 | Der: -0.00 | Int: -0.00 | Loop time (ms): 142
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: 2.78 | Error: -22.78 | Output: -4.70 | Time (ms): 359378 | Prop: -4.56 | Der: -0.08 | Int: -0.07 | Loop time (ms): 346
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: 4.41 | Error: -24.41 | Output: -5.21 | Time (ms): 359724 | Prop: -4.88 | Der: -0.09 | Int: -0.24 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: -7.95 | Error: -12.05 | Output: -2.02 | Time (ms): 360071 | Prop: -2.41 | Der: 0.71 | Int: -0.32 | Loop time (ms): 340
+Target: -20.00 | Angle: -16.08 | Error: -3.92 | Output: -2.02 | Time (ms): 360411 | Prop: -2.41 | Der: 0.71 | Int: -0.32 | Loop time (ms): 143
+Target: -20.00 | Angle: -19.02 | Error: -0.98 | Output: -2.02 | Time (ms): 360554 | Prop: -2.41 | Der: 0.71 | Int: -0.32 | Loop time (ms): 142
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: -15.07 | Error: -4.93 | Output: -1.87 | Time (ms): 360697 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 339
+Target: -20.00 | Angle: -16.34 | Error: -3.66 | Output: -1.87 | Time (ms): 361036 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 144
+Target: -20.00 | Angle: -21.27 | Error: 1.27 | Output: -1.87 | Time (ms): 361180 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -19.19 | Error: -0.81 | Output: -1.87 | Time (ms): 361322 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.76 | Error: -2.24 | Output: -1.87 | Time (ms): 361465 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.48 | Error: -2.52 | Output: -1.87 | Time (ms): 361609 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.76 | Error: -2.24 | Output: -1.87 | Time (ms): 361751 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.68 | Error: -2.32 | Output: -1.87 | Time (ms): 361894 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.67 | Error: -2.33 | Output: -1.87 | Time (ms): 362037 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.65 | Error: -2.35 | Output: -1.87 | Time (ms): 362180 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.58 | Error: -2.42 | Output: -1.87 | Time (ms): 362323 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.63 | Error: -2.37 | Output: -1.87 | Time (ms): 362466 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.67 | Error: -2.33 | Output: -1.87 | Time (ms): 362609 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 144
+Target: -20.00 | Angle: -17.74 | Error: -2.26 | Output: -1.87 | Time (ms): 362753 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.77 | Error: -2.23 | Output: -1.87 | Time (ms): 362895 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.71 | Error: -2.29 | Output: -1.87 | Time (ms): 363038 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 144
+Target: -20.00 | Angle: -17.69 | Error: -2.31 | Output: -1.87 | Time (ms): 363182 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.69 | Error: -2.31 | Output: -1.87 | Time (ms): 363324 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.70 | Error: -2.30 | Output: -1.87 | Time (ms): 363467 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 144
+Target: -20.00 | Angle: -17.76 | Error: -2.24 | Output: -1.87 | Time (ms): 363611 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.76 | Error: -2.24 | Output: -1.87 | Time (ms): 363753 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.78 | Error: -2.22 | Output: -1.87 | Time (ms): 363896 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.70 | Error: -2.30 | Output: -1.87 | Time (ms): 364040 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.80 | Error: -2.20 | Output: -1.87 | Time (ms): 364182 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.81 | Error: -2.19 | Output: -1.87 | Time (ms): 364325 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.83 | Error: -2.17 | Output: -1.87 | Time (ms): 364469 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.79 | Error: -2.21 | Output: -1.87 | Time (ms): 364611 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.86 | Error: -2.14 | Output: -1.87 | Time (ms): 364754 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.87 | Error: -2.13 | Output: -1.87 | Time (ms): 364898 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.89 | Error: -2.11 | Output: -1.87 | Time (ms): 365040 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 144
+Target: -20.00 | Angle: -17.86 | Error: -2.14 | Output: -1.87 | Time (ms): 365184 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.86 | Error: -2.14 | Output: -1.87 | Time (ms): 365327 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.95 | Error: -2.05 | Output: -1.87 | Time (ms): 365469 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 144
+Target: -20.00 | Angle: -17.88 | Error: -2.12 | Output: -1.87 | Time (ms): 365613 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.99 | Error: -2.01 | Output: -1.87 | Time (ms): 365755 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.98 | Error: -2.02 | Output: -1.87 | Time (ms): 365898 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.02 | Error: -1.98 | Output: -1.87 | Time (ms): 366042 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -18.05 | Error: -1.95 | Output: -1.87 | Time (ms): 366184 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.02 | Error: -1.98 | Output: -1.87 | Time (ms): 366327 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.02 | Error: -1.98 | Output: -1.87 | Time (ms): 366471 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -17.98 | Error: -2.02 | Output: -1.87 | Time (ms): 366613 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.09 | Error: -1.91 | Output: -1.87 | Time (ms): 366756 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -17.98 | Error: -2.02 | Output: -1.87 | Time (ms): 366899 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.04 | Error: -1.96 | Output: -1.87 | Time (ms): 367042 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.10 | Error: -1.90 | Output: -1.87 | Time (ms): 367185 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.12 | Error: -1.88 | Output: -1.87 | Time (ms): 367328 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.14 | Error: -1.86 | Output: -1.87 | Time (ms): 367471 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -18.16 | Error: -1.84 | Output: -1.87 | Time (ms): 367614 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.23 | Error: -1.77 | Output: -1.87 | Time (ms): 367757 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.21 | Error: -1.79 | Output: -1.87 | Time (ms): 367900 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.19 | Error: -1.81 | Output: -1.87 | Time (ms): 368044 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -18.16 | Error: -1.84 | Output: -1.87 | Time (ms): 368186 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.21 | Error: -1.79 | Output: -1.87 | Time (ms): 368329 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.24 | Error: -1.76 | Output: -1.87 | Time (ms): 368472 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.24 | Error: -1.76 | Output: -1.87 | Time (ms): 368615 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -18.32 | Error: -1.68 | Output: -1.87 | Time (ms): 368758 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.25 | Error: -1.75 | Output: -1.87 | Time (ms): 368901 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+Target: -20.00 | Angle: -18.41 | Error: -1.59 | Output: -1.87 | Time (ms): 369044 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 142
+Target: -20.00 | Angle: -18.32 | Error: -1.68 | Output: -1.87 | Time (ms): 369187 | Prop: -0.99 | Der: -0.55 | Int: -0.33 | Loop time (ms): 143
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -18.43 | Error: 18.43 | Output: 6.22 | Time (ms): 369330 | Prop: 3.69 | Der: 2.81 | Int: -0.28 | Loop time (ms): 351
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -25.64 | Error: 25.64 | Output: 5.44 | Time (ms): 369681 | Prop: 5.13 | Der: 0.41 | Int: -0.10 | Loop time (ms): 349
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -5.98 | Error: 5.98 | Output: 0.01 | Time (ms): 370030 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 338
+Target: 0.00 | Angle: -3.72 | Error: 3.72 | Output: 0.01 | Time (ms): 370368 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: -1.64 | Error: 1.64 | Output: 0.01 | Time (ms): 370511 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.32 | Error: -0.32 | Output: 0.01 | Time (ms): 370654 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.52 | Error: -0.52 | Output: 0.01 | Time (ms): 370797 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.31 | Error: -0.31 | Output: 0.01 | Time (ms): 370939 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.26 | Error: -0.26 | Output: 0.01 | Time (ms): 371083 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.56 | Error: -0.56 | Output: 0.01 | Time (ms): 371225 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.53 | Error: -0.53 | Output: 0.01 | Time (ms): 371368 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.52 | Error: -0.52 | Output: 0.01 | Time (ms): 371512 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.26 | Error: -0.26 | Output: 0.01 | Time (ms): 371655 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.35 | Error: -0.35 | Output: 0.01 | Time (ms): 371798 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.46 | Error: -0.46 | Output: 0.01 | Time (ms): 371941 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.53 | Error: -0.53 | Output: 0.01 | Time (ms): 372084 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.34 | Error: -0.34 | Output: 0.01 | Time (ms): 372228 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.38 | Error: -0.38 | Output: 0.01 | Time (ms): 372370 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.41 | Error: -0.41 | Output: 0.01 | Time (ms): 372513 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.44 | Error: -0.44 | Output: 0.01 | Time (ms): 372657 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.49 | Error: -0.49 | Output: 0.01 | Time (ms): 372800 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.45 | Error: -0.45 | Output: 0.01 | Time (ms): 372943 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.48 | Error: -0.48 | Output: 0.01 | Time (ms): 373087 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.46 | Error: -0.46 | Output: 0.01 | Time (ms): 373229 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.44 | Error: -0.44 | Output: 0.01 | Time (ms): 373372 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.45 | Error: -0.45 | Output: 0.01 | Time (ms): 373516 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.46 | Error: -0.46 | Output: 0.01 | Time (ms): 373659 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.47 | Error: -0.47 | Output: 0.01 | Time (ms): 373803 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.52 | Error: -0.52 | Output: 0.01 | Time (ms): 373946 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.49 | Error: -0.49 | Output: 0.01 | Time (ms): 374089 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.47 | Error: -0.47 | Output: 0.01 | Time (ms): 374233 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.55 | Error: -0.55 | Output: 0.01 | Time (ms): 374376 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.52 | Error: -0.52 | Output: 0.01 | Time (ms): 374518 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.55 | Error: -0.55 | Output: 0.01 | Time (ms): 374662 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.50 | Error: -0.50 | Output: 0.01 | Time (ms): 374805 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.58 | Error: -0.58 | Output: 0.01 | Time (ms): 374948 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.54 | Error: -0.54 | Output: 0.01 | Time (ms): 375092 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.50 | Error: -0.50 | Output: 0.01 | Time (ms): 375235 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.59 | Error: -0.59 | Output: 0.01 | Time (ms): 375377 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.58 | Error: -0.58 | Output: 0.01 | Time (ms): 375521 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.61 | Error: -0.61 | Output: 0.01 | Time (ms): 375664 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.59 | Error: -0.59 | Output: 0.01 | Time (ms): 375808 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.64 | Error: -0.64 | Output: 0.01 | Time (ms): 375950 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.58 | Error: -0.58 | Output: 0.01 | Time (ms): 376093 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.64 | Error: -0.64 | Output: 0.01 | Time (ms): 376237 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.60 | Error: -0.60 | Output: 0.01 | Time (ms): 376380 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.62 | Error: -0.62 | Output: 0.01 | Time (ms): 376523 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.71 | Error: -0.71 | Output: 0.01 | Time (ms): 376666 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.67 | Error: -0.67 | Output: 0.01 | Time (ms): 376809 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.70 | Error: -0.70 | Output: 0.01 | Time (ms): 376952 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.64 | Error: -0.64 | Output: 0.01 | Time (ms): 377096 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.72 | Error: -0.72 | Output: 0.01 | Time (ms): 377238 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.71 | Error: -0.71 | Output: 0.01 | Time (ms): 377381 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.75 | Error: -0.75 | Output: 0.01 | Time (ms): 377525 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.72 | Error: -0.72 | Output: 0.01 | Time (ms): 377668 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.68 | Error: -0.68 | Output: 0.01 | Time (ms): 377810 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.72 | Error: -0.72 | Output: 0.01 | Time (ms): 377954 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.77 | Error: -0.77 | Output: 0.01 | Time (ms): 378097 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.74 | Error: -0.74 | Output: 0.01 | Time (ms): 378241 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.66 | Error: -0.66 | Output: 0.01 | Time (ms): 378383 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.80 | Error: -0.80 | Output: 0.01 | Time (ms): 378526 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.75 | Error: -0.75 | Output: 0.01 | Time (ms): 378670 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+Target: 0.00 | Angle: 0.75 | Error: -0.75 | Output: 0.01 | Time (ms): 378813 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 142
+Target: 0.00 | Angle: 0.66 | Error: -0.66 | Output: 0.01 | Time (ms): 378955 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 144
+Target: 0.00 | Angle: 0.73 | Error: -0.73 | Output: 0.01 | Time (ms): 379099 | Prop: 1.20 | Der: -1.13 | Int: -0.06 | Loop time (ms): 143
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6

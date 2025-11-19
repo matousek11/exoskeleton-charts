@@ -1,0 +1,706 @@
+Target: -20.00 | Angle: -1.83 | Error: -18.17 | Output: -7.27 | Time (ms): 363022 | Prop: -7.27 | Der: -0.00 | Int: -0.00 | Loop time (ms): 143
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: -1.10 | Error: -18.90 | Output: -7.82 | Time (ms): 363165 | Prop: -7.56 | Der: -0.20 | Int: -0.06 | Loop time (ms): 352
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: 4.30 | Error: -24.30 | Output: -10.56 | Time (ms): 363517 | Prop: -9.72 | Der: -0.61 | Int: -0.23 | Loop time (ms): 358
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: -4.37 | Error: -15.63 | Output: -5.62 | Time (ms): 363875 | Prop: -6.25 | Der: 0.97 | Int: -0.34 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: -15.82 | Error: -4.18 | Output: -0.72 | Time (ms): 364222 | Prop: -1.67 | Der: 1.32 | Int: -0.37 | Loop time (ms): 336
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: -20.00 | Angle: -13.15 | Error: -6.85 | Output: -3.47 | Time (ms): 364558 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 343
+Target: -20.00 | Angle: -18.74 | Error: -1.26 | Output: -3.47 | Time (ms): 364901 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.09 | Error: 2.09 | Output: -3.47 | Time (ms): 365043 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 144
+Target: -20.00 | Angle: -22.50 | Error: 2.50 | Output: -3.47 | Time (ms): 365187 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.74 | Error: 2.74 | Output: -3.47 | Time (ms): 365330 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.72 | Error: 2.72 | Output: -3.47 | Time (ms): 365472 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.77 | Error: 2.77 | Output: -3.47 | Time (ms): 365615 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.68 | Error: 2.68 | Output: -3.47 | Time (ms): 365758 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.77 | Error: 2.77 | Output: -3.47 | Time (ms): 365900 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 144
+Target: -20.00 | Angle: -22.82 | Error: 2.82 | Output: -3.47 | Time (ms): 366044 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.81 | Error: 2.81 | Output: -3.47 | Time (ms): 366186 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.75 | Error: 2.75 | Output: -3.47 | Time (ms): 366329 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.74 | Error: 2.74 | Output: -3.47 | Time (ms): 366472 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.79 | Error: 2.79 | Output: -3.47 | Time (ms): 366615 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.86 | Error: 2.86 | Output: -3.47 | Time (ms): 366757 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.77 | Error: 2.77 | Output: -3.47 | Time (ms): 366901 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.69 | Error: 2.69 | Output: -3.47 | Time (ms): 367043 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.10 | Error: 3.10 | Output: -3.47 | Time (ms): 367186 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.94 | Error: 2.94 | Output: -3.47 | Time (ms): 367329 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.78 | Error: 2.78 | Output: -3.47 | Time (ms): 367471 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.81 | Error: 2.81 | Output: -3.47 | Time (ms): 367614 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.86 | Error: 2.86 | Output: -3.47 | Time (ms): 367757 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.93 | Error: 2.93 | Output: -3.47 | Time (ms): 367900 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.93 | Error: 2.93 | Output: -3.47 | Time (ms): 368043 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.03 | Error: 3.03 | Output: -3.47 | Time (ms): 368186 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.99 | Error: 2.99 | Output: -3.47 | Time (ms): 368328 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 144
+Target: -20.00 | Angle: -22.83 | Error: 2.83 | Output: -3.47 | Time (ms): 368472 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.91 | Error: 2.91 | Output: -3.47 | Time (ms): 368614 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -22.93 | Error: 2.93 | Output: -3.47 | Time (ms): 368757 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.00 | Error: 3.00 | Output: -3.47 | Time (ms): 368900 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.04 | Error: 3.04 | Output: -3.47 | Time (ms): 369043 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.93 | Error: 2.93 | Output: -3.47 | Time (ms): 369185 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 144
+Target: -20.00 | Angle: -23.00 | Error: 3.00 | Output: -3.47 | Time (ms): 369329 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -22.98 | Error: 2.98 | Output: -3.47 | Time (ms): 369471 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.07 | Error: 3.07 | Output: -3.47 | Time (ms): 369614 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.13 | Error: 3.13 | Output: -3.47 | Time (ms): 369757 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.11 | Error: 3.11 | Output: -3.47 | Time (ms): 369900 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.17 | Error: 3.17 | Output: -3.47 | Time (ms): 370042 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 144
+Target: -20.00 | Angle: -23.10 | Error: 3.10 | Output: -3.47 | Time (ms): 370186 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.19 | Error: 3.19 | Output: -3.47 | Time (ms): 370328 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.14 | Error: 3.14 | Output: -3.47 | Time (ms): 370471 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.21 | Error: 3.21 | Output: -3.47 | Time (ms): 370614 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.21 | Error: 3.21 | Output: -3.47 | Time (ms): 370757 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.22 | Error: 3.22 | Output: -3.47 | Time (ms): 370899 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 144
+Target: -20.00 | Angle: -23.31 | Error: 3.31 | Output: -3.47 | Time (ms): 371043 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.25 | Error: 3.25 | Output: -3.47 | Time (ms): 371185 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 144
+Target: -20.00 | Angle: -23.31 | Error: 3.31 | Output: -3.47 | Time (ms): 371329 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.38 | Error: 3.38 | Output: -3.47 | Time (ms): 371471 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.29 | Error: 3.29 | Output: -3.47 | Time (ms): 371614 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.43 | Error: 3.43 | Output: -3.47 | Time (ms): 371757 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.35 | Error: 3.35 | Output: -3.47 | Time (ms): 371900 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.43 | Error: 3.43 | Output: -3.47 | Time (ms): 372042 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.47 | Error: 3.47 | Output: -3.47 | Time (ms): 372186 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.44 | Error: 3.44 | Output: -3.47 | Time (ms): 372328 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.55 | Error: 3.55 | Output: -3.47 | Time (ms): 372471 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+Target: -20.00 | Angle: -23.54 | Error: 3.54 | Output: -3.47 | Time (ms): 372614 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.55 | Error: 3.55 | Output: -3.47 | Time (ms): 372757 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 142
+Target: -20.00 | Angle: -23.59 | Error: 3.59 | Output: -3.47 | Time (ms): 372899 | Prop: -2.74 | Der: -0.32 | Int: -0.41 | Loop time (ms): 143
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -23.64 | Error: 23.64 | Output: 14.68 | Time (ms): 373043 | Prop: 9.46 | Der: 5.57 | Int: -0.35 | Loop time (ms): 367
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -25.20 | Error: 25.20 | Output: 10.09 | Time (ms): 373410 | Prop: 10.08 | Der: 0.17 | Int: -0.16 | Loop time (ms): 360
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 5.01 | Error: -5.01 | Output: -5.56 | Time (ms): 373770 | Prop: -2.00 | Der: -3.36 | Int: -0.20 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -8.52 | Error: 8.52 | Output: 4.83 | Time (ms): 374117 | Prop: 3.41 | Der: 1.56 | Int: -0.14 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 4.70 | Error: -4.70 | Output: -3.57 | Time (ms): 374464 | Prop: -1.88 | Der: -1.52 | Int: -0.17 | Loop time (ms): 342
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -9.50 | Error: 9.50 | Output: 5.36 | Time (ms): 374806 | Prop: 3.80 | Der: 1.66 | Int: -0.10 | Loop time (ms): 349
+Target: 0.00 | Angle: 3.95 | Error: -3.95 | Output: 5.36 | Time (ms): 375155 | Prop: 3.80 | Der: 1.66 | Int: -0.10 | Loop time (ms): 143
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -5.13 | Error: 5.13 | Output: 4.50 | Time (ms): 375298 | Prop: 2.05 | Der: 2.54 | Int: -0.09 | Loop time (ms): 346
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 9.46 | Error: -9.46 | Output: -5.63 | Time (ms): 375644 | Prop: -3.78 | Der: -1.69 | Int: -0.16 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -11.66 | Error: 11.66 | Output: 7.03 | Time (ms): 375991 | Prop: 4.67 | Der: 2.44 | Int: -0.07 | Loop time (ms): 353
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 7.90 | Error: -7.90 | Output: -5.51 | Time (ms): 376344 | Prop: -3.16 | Der: -2.22 | Int: -0.13 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -9.77 | Error: 9.77 | Output: 5.88 | Time (ms): 376691 | Prop: 3.91 | Der: 2.04 | Int: -0.06 | Loop time (ms): 349
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 5.55 | Error: -5.55 | Output: -4.08 | Time (ms): 377040 | Prop: -2.22 | Der: -1.76 | Int: -0.10 | Loop time (ms): 344
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -8.47 | Error: 8.47 | Output: 4.98 | Time (ms): 377384 | Prop: 3.39 | Der: 1.63 | Int: -0.04 | Loop time (ms): 348
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 4.61 | Error: -4.61 | Output: -3.42 | Time (ms): 377732 | Prop: -1.85 | Der: -1.50 | Int: -0.08 | Loop time (ms): 342
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -9.20 | Error: 9.20 | Output: 5.28 | Time (ms): 378074 | Prop: 3.68 | Der: 1.62 | Int: -0.01 | Loop time (ms): 348
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 5.18 | Error: -5.18 | Output: -3.77 | Time (ms): 378422 | Prop: -2.07 | Der: -1.65 | Int: -0.05 | Loop time (ms): 343
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -8.22 | Error: 8.22 | Output: 4.86 | Time (ms): 378765 | Prop: 3.29 | Der: 1.56 | Int: 0.01 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 4.51 | Error: -4.51 | Output: -3.30 | Time (ms): 379112 | Prop: -1.81 | Der: -1.47 | Int: -0.02 | Loop time (ms): 342
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -9.69 | Error: 9.69 | Output: 5.57 | Time (ms): 379455 | Prop: 3.87 | Der: 1.66 | Int: 0.04 | Loop time (ms): 348
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 5.44 | Error: -5.44 | Output: -3.91 | Time (ms): 379804 | Prop: -2.18 | Der: -1.73 | Int: 0.01 | Loop time (ms): 343
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -9.17 | Error: 9.17 | Output: 5.44 | Time (ms): 380147 | Prop: 3.67 | Der: 1.70 | Int: 0.07 | Loop time (ms): 348
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 5.25 | Error: -5.25 | Output: -3.73 | Time (ms): 380495 | Prop: -2.10 | Der: -1.66 | Int: 0.03 | Loop time (ms): 343
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -7.85 | Error: 7.85 | Output: 4.75 | Time (ms): 380838 | Prop: 3.14 | Der: 1.53 | Int: 0.09 | Loop time (ms): 347
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+Target: 0.00 | Angle: 4.34 | Error: -4.34 | Output: -3.08 | Time (ms): 381186 | Prop: -1.74 | Der: -1.40 | Int: 0.06 | Loop time (ms): 342
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+Target: 0.00 | Angle: -8.70 | Error: 8.70 | Output: 5.12 | Time (ms): 381528 | Prop: 3.48 | Der: 1.53 | Int: 0.11 | Loop time (ms): 348
+--- Emergency stop ---
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
