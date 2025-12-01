@@ -1,10 +1,11 @@
-path = "pid-tests/transformed-data/pid-test-35.txt"
+path = "pid-tests/transformed-data/pid-test-36.txt"
 
 cleaned_data = []
 
 with open(path, "r") as f:
     for line in f:
-        if line.startswith("PHYSICAL MOVEMENT"):
+        line = line.strip()
+        if not line or line.startswith("PHYSICAL MOVEMENT"):
             continue
         line = line.strip()
         line = line.replace('Target: ', '')
