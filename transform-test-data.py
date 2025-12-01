@@ -1,4 +1,4 @@
-path = "pid-tests/transformed-data/pid-test-34.txt"
+path = "pid-tests/transformed-data/pid-test-35.txt"
 
 cleaned_data = []
 
@@ -14,9 +14,17 @@ with open(path, "r") as f:
         line = line.replace('Time (ms): ', '')
         line = line.replace('Prop: ', '')
         line = line.replace('Der: ', '')
-        line = line.replace('Int: ', '') 
+        line = line.replace('Int: ', '')
+        line = line.replace('Long target: ', '')
+        line = line.replace('Long angle: ', '')
+        line = line.replace('Long error: ', '')
+        line = line.replace('Long output: ', '')
+        line = line.replace('Long prop: ', '')
+        line = line.replace('Long der: ', '')
+        line = line.replace('Long int: ', '') 
         line = line.replace('Loop time (ms): ', '')
         line = line.replace(' | ', ';')
+        line = line.replace('| ', ';')
         cleaned_data.append(line)
 
 # write to file
