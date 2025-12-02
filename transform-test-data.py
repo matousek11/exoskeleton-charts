@@ -1,4 +1,4 @@
-path = "pid-tests/transformed-data/pid-test-36.txt"
+path = "pid-tests/transformed-data/pid-test-39.txt"
 
 cleaned_data = []
 
@@ -24,6 +24,10 @@ with open(path, "r") as f:
         line = line.replace('Long der: ', '')
         line = line.replace('Long int: ', '') 
         line = line.replace('Loop time (ms): ', '')
+        line = line.replace('left bottom front muscle open(ms): ', '')
+        line = line.replace('right bottom front muscle open(ms): ', '')
+        line = line.replace('left bottom back muscle open(ms): ', '')
+        line = line.replace('right bottom back muscle open(ms): ', '')
         line = line.replace(' | ', ';')
         line = line.replace('| ', ';')
         cleaned_data.append(line)

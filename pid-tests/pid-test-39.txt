@@ -1,0 +1,1725 @@
+Starting 2 DOF particular muscle PID control for 20s...
+
+Target: -20.00 | Angle: -4.08 | Error: -15.92 | Output: -1.61 | Time (ms): 99871 | Prop: -1.59 | Der: -0.00 | Int: -0.02 | Long target: 80.00 | Long angle: 109.92 | Long error: -29.92 | Long output: -3.65 | Long prop: -2.99 | Long der: -0.00 | Long int: -0.66 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: -20.00 | Angle: -3.29 | Error: -16.71 | Output: -2.12 | Time (ms): 100040 | Prop: -1.67 | Der: -0.05 | Int: -0.40 | Long target: 80.00 | Long angle: 107.62 | Long error: -27.62 | Long output: -4.48 | Long prop: -2.76 | Long der: 0.07 | Long int: -1.78 | left bottom front muscle open(ms): 2 | right bottom front muscle open(ms): -7 | left bottom back muscle open(ms): 6 | right bottom back muscle open(ms): -1 | Loop time (ms): 347
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: -20.00 | Angle: -16.04 | Error: -3.96 | Output: -2.12 | Time (ms): 100387 | Prop: -1.67 | Der: -0.05 | Int: -0.40 | Long target: 80.00 | Long angle: 86.42 | Long error: -6.42 | Long output: -2.65 | Long prop: -0.64 | Long der: 0.31 | Long int: -2.32 | left bottom front muscle open(ms): 2 | right bottom front muscle open(ms): -3 | left bottom back muscle open(ms): 2 | right bottom back muscle open(ms): -1 | Loop time (ms): 355
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+Target: -20.00 | Angle: -5.32 | Error: -14.68 | Output: -3.17 | Time (ms): 100743 | Prop: -1.47 | Der: -0.20 | Int: -1.50 | Long target: 80.00 | Long angle: 94.83 | Long error: -14.83 | Long output: -5.18 | Long prop: -1.48 | Long der: -0.12 | Long int: -3.58 | left bottom front muscle open(ms): 2 | right bottom front muscle open(ms): -9 | left bottom back muscle open(ms): 8 | right bottom back muscle open(ms): 0 | Loop time (ms): 310
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: -11.82 | Error: -8.18 | Output: -2.69 | Time (ms): 101054 | Prop: -0.82 | Der: 0.15 | Int: -2.01 | Long target: 80.00 | Long angle: 84.72 | Long error: -4.72 | Long output: -5.18 | Long prop: -1.48 | Long der: -0.12 | Long int: -3.58 | left bottom front muscle open(ms): -3 | right bottom front muscle open(ms): -3 | left bottom back muscle open(ms): 2 | right bottom back muscle open(ms): 2 | Loop time (ms): 352
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+Target: -20.00 | Angle: -8.24 | Error: -11.76 | Output: -4.13 | Time (ms): 101406 | Prop: -1.18 | Der: -0.07 | Int: -2.88 | Long target: 80.00 | Long angle: 90.62 | Long error: -10.62 | Long output: -5.63 | Long prop: -1.06 | Long der: -0.08 | Long int: -4.48 | left bottom front muscle open(ms): 1 | right bottom front muscle open(ms): -10 | left bottom back muscle open(ms): 9 | right bottom back muscle open(ms): 0 | Loop time (ms): 314
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: -10.23 | Error: -9.77 | Output: -4.44 | Time (ms): 101721 | Prop: -0.98 | Der: 0.04 | Int: -3.50 | Long target: 80.00 | Long angle: 82.25 | Long error: -2.25 | Long output: -5.63 | Long prop: -1.06 | Long der: -0.08 | Long int: -4.48 | left bottom front muscle open(ms): -5 | right bottom front muscle open(ms): -5 | left bottom back muscle open(ms): 4 | right bottom back muscle open(ms): 4 | Loop time (ms): 342
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+Target: -20.00 | Angle: -11.19 | Error: -8.81 | Output: -5.00 | Time (ms): 102064 | Prop: -0.88 | Der: 0.02 | Int: -4.13 | Long target: 80.00 | Long angle: 86.65 | Long error: -6.65 | Long output: -5.76 | Long prop: -0.66 | Long der: -0.06 | Long int: -5.03 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): -11 | left bottom back muscle open(ms): 9 | right bottom back muscle open(ms): 0 | Loop time (ms): 265
+
+Target: -20.00 | Angle: -16.57 | Error: -3.43 | Output: -5.00 | Time (ms): 102329 | Prop: -0.88 | Der: 0.02 | Int: -4.13 | Long target: 80.00 | Long angle: 83.88 | Long error: -3.88 | Long output: -5.76 | Long prop: -0.66 | Long der: -0.06 | Long int: -5.03 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: -20.00 | Angle: -17.97 | Error: -2.03 | Output: -5.00 | Time (ms): 102497 | Prop: -0.88 | Der: 0.02 | Int: -4.13 | Long target: 80.00 | Long angle: 87.96 | Long error: -7.96 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 6 | right bottom front muscle open(ms): -7 | left bottom back muscle open(ms): 6 | right bottom back muscle open(ms): -4 | Loop time (ms): 341
+
+Target: -20.00 | Angle: -18.71 | Error: -1.29 | Output: -5.00 | Time (ms): 102838 | Prop: -0.88 | Der: 0.02 | Int: -4.13 | Long target: 80.00 | Long angle: 79.58 | Long error: 0.42 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -16.76 | Error: -3.24 | Output: -5.00 | Time (ms): 103006 | Prop: -0.88 | Der: 0.02 | Int: -4.13 | Long target: 80.00 | Long angle: 82.04 | Long error: -2.04 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: -15.78 | Error: -4.22 | Output: -4.71 | Time (ms): 103175 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 81.83 | Long error: -1.83 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): -5 | right bottom front muscle open(ms): -5 | left bottom back muscle open(ms): 4 | right bottom back muscle open(ms): 4 | Loop time (ms): 343
+
+Target: -20.00 | Angle: -16.03 | Error: -3.97 | Output: -4.71 | Time (ms): 103518 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.05 | Long error: -3.05 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -17.06 | Error: -2.94 | Output: -4.71 | Time (ms): 103686 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 82.63 | Long error: -2.63 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -17.90 | Error: -2.10 | Output: -4.71 | Time (ms): 103855 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.12 | Long error: -3.12 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -18.44 | Error: -1.56 | Output: -4.71 | Time (ms): 104023 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.14 | Long error: -3.14 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.87 | Error: -1.13 | Output: -4.71 | Time (ms): 104190 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.12 | Long error: -3.12 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.92 | Error: -1.08 | Output: -4.71 | Time (ms): 104358 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.16 | Long error: -3.16 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.83 | Error: -1.17 | Output: -4.71 | Time (ms): 104526 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.20 | Long error: -3.20 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.89 | Error: -1.11 | Output: -4.71 | Time (ms): 104694 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.04 | Long error: -3.04 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -18.84 | Error: -1.16 | Output: -4.71 | Time (ms): 104863 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.13 | Long error: -3.13 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.91 | Error: -1.09 | Output: -4.71 | Time (ms): 105031 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.14 | Long error: -3.14 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.91 | Error: -1.09 | Output: -4.71 | Time (ms): 105199 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.16 | Long error: -3.16 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.87 | Error: -1.13 | Output: -4.71 | Time (ms): 105367 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.19 | Long error: -3.19 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.95 | Error: -1.05 | Output: -4.71 | Time (ms): 105535 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.21 | Long error: -3.21 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.92 | Error: -1.08 | Output: -4.71 | Time (ms): 105703 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.22 | Long error: -3.22 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -19.03 | Error: -0.97 | Output: -4.71 | Time (ms): 105872 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.34 | Long error: -3.34 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.93 | Error: -1.07 | Output: -4.71 | Time (ms): 106040 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.34 | Long error: -3.34 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -18.99 | Error: -1.01 | Output: -4.71 | Time (ms): 106208 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.33 | Long error: -3.33 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.05 | Error: -0.95 | Output: -4.71 | Time (ms): 106376 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.52 | Long error: -3.52 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.15 | Error: -0.85 | Output: -4.71 | Time (ms): 106544 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.47 | Long error: -3.47 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.19 | Error: -0.81 | Output: -4.71 | Time (ms): 106712 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.62 | Long error: -3.62 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -19.19 | Error: -0.81 | Output: -4.71 | Time (ms): 106880 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.60 | Long error: -3.60 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -19.31 | Error: -0.69 | Output: -4.71 | Time (ms): 107048 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.51 | Long error: -3.51 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.32 | Error: -0.68 | Output: -4.71 | Time (ms): 107216 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.72 | Long error: -3.72 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.32 | Error: -0.68 | Output: -4.71 | Time (ms): 107384 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.78 | Long error: -3.78 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.37 | Error: -0.63 | Output: -4.71 | Time (ms): 107552 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.82 | Long error: -3.82 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.47 | Error: -0.53 | Output: -4.71 | Time (ms): 107720 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.76 | Long error: -3.76 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.47 | Error: -0.53 | Output: -4.71 | Time (ms): 107888 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.89 | Long error: -3.89 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.55 | Error: -0.45 | Output: -4.71 | Time (ms): 108056 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.87 | Long error: -3.87 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.54 | Error: -0.46 | Output: -4.71 | Time (ms): 108224 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.88 | Long error: -3.88 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -19.62 | Error: -0.38 | Output: -4.71 | Time (ms): 108393 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 83.92 | Long error: -3.92 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.68 | Error: -0.32 | Output: -4.71 | Time (ms): 108561 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.09 | Long error: -4.09 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.73 | Error: -0.27 | Output: -4.71 | Time (ms): 108729 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.21 | Long error: -4.21 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.72 | Error: -0.28 | Output: -4.71 | Time (ms): 108897 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.23 | Long error: -4.23 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.81 | Error: -0.19 | Output: -4.71 | Time (ms): 109065 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.09 | Long error: -4.09 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.88 | Error: -0.12 | Output: -4.71 | Time (ms): 109233 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.20 | Long error: -4.20 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -19.93 | Error: -0.07 | Output: -4.71 | Time (ms): 109402 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.33 | Long error: -4.33 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -19.92 | Error: -0.08 | Output: -4.71 | Time (ms): 109570 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.33 | Long error: -4.33 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -19.99 | Error: -0.01 | Output: -4.71 | Time (ms): 109737 | Prop: -0.42 | Der: -0.06 | Int: -4.23 | Long target: 80.00 | Long angle: 84.51 | Long error: -4.51 | Long output: -6.27 | Long prop: -0.80 | Long der: -0.12 | Long int: -5.35 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -20.05 | Error: 20.05 | Output: -0.52 | Time (ms): 109905 | Prop: 2.00 | Der: 1.25 | Int: -3.78 | Long target: 100.00 | Long angle: 84.56 | Long error: 15.44 | Long output: -2.59 | Long prop: 1.54 | Long der: 0.59 | Long int: -4.73 | left bottom front muscle open(ms): 2 | right bottom front muscle open(ms): -1 | left bottom back muscle open(ms): 2 | right bottom back muscle open(ms): -3 | Loop time (ms): 354
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -16.04 | Error: 16.04 | Output: -1.05 | Time (ms): 110259 | Prop: 1.60 | Der: -0.08 | Int: -2.58 | Long target: 100.00 | Long angle: 86.59 | Long error: 13.41 | Long output: -2.27 | Long prop: 1.34 | Long der: -0.03 | Long int: -3.59 | left bottom front muscle open(ms): 1 | right bottom front muscle open(ms): -2 | left bottom back muscle open(ms): 3 | right bottom back muscle open(ms): -1 | Loop time (ms): 353
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -14.24 | Error: 14.24 | Output: -0.13 | Time (ms): 110614 | Prop: 1.42 | Der: -0.03 | Int: -1.52 | Long target: 100.00 | Long angle: 86.67 | Long error: 13.33 | Long output: -1.12 | Long prop: 1.33 | Long der: -0.00 | Long int: -2.45 | left bottom front muscle open(ms): 1 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 1 | right bottom back muscle open(ms): -1 | Loop time (ms): 300
+
+Target: 0.00 | Angle: -14.02 | Error: 14.02 | Output: 0.70 | Time (ms): 110913 | Prop: 1.40 | Der: -0.01 | Int: -0.69 | Long target: 100.00 | Long angle: 87.15 | Long error: 12.85 | Long output: -0.25 | Long prop: 1.29 | Long der: -0.01 | Long int: -1.53 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+Target: 0.00 | Angle: -15.19 | Error: 15.19 | Output: 1.24 | Time (ms): 111082 | Prop: 1.52 | Der: 0.07 | Int: -0.35 | Long target: 100.00 | Long angle: 83.64 | Long error: 16.36 | Long output: 0.87 | Long prop: 1.64 | Long der: 0.10 | Long int: -0.87 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 1 | left bottom back muscle open(ms): -1 | right bottom back muscle open(ms): 0 | Loop time (ms): 265
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+Target: 0.00 | Angle: -18.28 | Error: 18.28 | Output: 2.46 | Time (ms): 111346 | Prop: 1.83 | Der: 0.09 | Int: 0.55 | Long target: 100.00 | Long angle: 87.06 | Long error: 12.94 | Long output: 1.18 | Long prop: 1.29 | Long der: -0.06 | Long int: -0.05 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 3 | left bottom back muscle open(ms): -3 | right bottom back muscle open(ms): 0 | Loop time (ms): 264
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -16.95 | Error: 16.95 | Output: 3.04 | Time (ms): 111611 | Prop: 1.70 | Der: -0.04 | Int: 1.38 | Long target: 100.00 | Long angle: 91.25 | Long error: 8.75 | Long output: 1.31 | Long prop: 0.88 | Long der: -0.08 | Long int: 0.51 | left bottom front muscle open(ms): 1 | right bottom front muscle open(ms): 4 | left bottom back muscle open(ms): -4 | right bottom back muscle open(ms): -1 | Loop time (ms): 356
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -13.46 | Error: 13.46 | Output: 3.67 | Time (ms): 111966 | Prop: 1.35 | Der: -0.07 | Int: 2.39 | Long target: 100.00 | Long angle: 89.13 | Long error: 10.87 | Long output: 2.55 | Long prop: 1.09 | Long der: 0.03 | Long int: 1.44 | left bottom front muscle open(ms): 1 | right bottom front muscle open(ms): 5 | left bottom back muscle open(ms): -6 | right bottom back muscle open(ms): -1 | Loop time (ms): 345
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -13.74 | Error: 13.74 | Output: 4.76 | Time (ms): 112311 | Prop: 1.37 | Der: 0.01 | Int: 3.38 | Long target: 100.00 | Long angle: 94.74 | Long error: 5.26 | Long output: 2.55 | Long prop: 1.09 | Long der: 0.03 | Long int: 1.44 | left bottom front muscle open(ms): 4 | right bottom front muscle open(ms): 4 | left bottom back muscle open(ms): -5 | right bottom back muscle open(ms): -5 | Loop time (ms): 350
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -11.94 | Error: 11.94 | Output: 5.41 | Time (ms): 112661 | Prop: 1.19 | Der: -0.03 | Int: 4.26 | Long target: 100.00 | Long angle: 92.36 | Long error: 7.64 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 2 | right bottom front muscle open(ms): 7 | left bottom back muscle open(ms): -9 | right bottom back muscle open(ms): -3 | Loop time (ms): 350
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -10.00 | Error: 10.00 | Output: 5.95 | Time (ms): 113011 | Prop: 1.00 | Der: -0.04 | Int: 4.99 | Long target: 100.00 | Long angle: 98.06 | Long error: 1.94 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 5 | right bottom front muscle open(ms): 5 | left bottom back muscle open(ms): -7 | right bottom back muscle open(ms): -7 | Loop time (ms): 338
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 0.00 | Angle: -4.32 | Error: 4.32 | Output: 5.61 | Time (ms): 113349 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 97.85 | Long error: 2.15 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 5 | right bottom front muscle open(ms): 5 | left bottom back muscle open(ms): -6 | right bottom back muscle open(ms): -6 | Loop time (ms): 336
+
+Target: 0.00 | Angle: -1.46 | Error: 1.46 | Output: 5.61 | Time (ms): 113685 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.24 | Long error: 3.76 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -1.01 | Error: 1.01 | Output: 5.61 | Time (ms): 113853 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 98.65 | Long error: 1.35 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.34 | Error: 0.34 | Output: 5.61 | Time (ms): 114020 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 94.46 | Long error: 5.54 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.21 | Error: 0.21 | Output: 5.61 | Time (ms): 114187 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.29 | Long error: 3.71 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.28 | Error: 0.28 | Output: 5.61 | Time (ms): 114355 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 97.23 | Long error: 2.77 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.21 | Error: 0.21 | Output: 5.61 | Time (ms): 114522 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.16 | Long error: 3.84 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 166
+
+Target: 0.00 | Angle: -0.21 | Error: 0.21 | Output: 5.61 | Time (ms): 114690 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 95.96 | Long error: 4.04 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.23 | Error: 0.23 | Output: 5.61 | Time (ms): 114856 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.31 | Long error: 3.69 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.22 | Error: 0.22 | Output: 5.61 | Time (ms): 115023 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.53 | Long error: 3.47 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.22 | Error: 0.22 | Output: 5.61 | Time (ms): 115191 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.39 | Long error: 3.61 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.27 | Error: 0.27 | Output: 5.61 | Time (ms): 115358 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.46 | Long error: 3.54 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.22 | Error: 0.22 | Output: 5.61 | Time (ms): 115525 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.40 | Long error: 3.60 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 0.00 | Angle: -0.23 | Error: 0.23 | Output: 5.61 | Time (ms): 115693 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.44 | Long error: 3.56 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.14 | Error: 0.14 | Output: 5.61 | Time (ms): 115860 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.39 | Long error: 3.61 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 0.00 | Angle: -0.25 | Error: 0.25 | Output: 5.61 | Time (ms): 116028 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.50 | Long error: 3.50 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.18 | Error: 0.18 | Output: 5.61 | Time (ms): 116195 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.48 | Long error: 3.52 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.21 | Error: 0.21 | Output: 5.61 | Time (ms): 116362 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.54 | Long error: 3.46 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 0.00 | Angle: -0.15 | Error: 0.15 | Output: 5.61 | Time (ms): 116530 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.50 | Long error: 3.50 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.22 | Error: 0.22 | Output: 5.61 | Time (ms): 116697 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.66 | Long error: 3.34 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 166
+
+Target: 0.00 | Angle: -0.20 | Error: 0.20 | Output: 5.61 | Time (ms): 116865 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.64 | Long error: 3.36 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.17 | Error: 0.17 | Output: 5.61 | Time (ms): 117031 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.64 | Long error: 3.36 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.19 | Error: 0.19 | Output: 5.61 | Time (ms): 117199 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.62 | Long error: 3.38 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.14 | Error: 0.14 | Output: 5.61 | Time (ms): 117366 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.70 | Long error: 3.30 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.20 | Error: 0.20 | Output: 5.61 | Time (ms): 117533 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.64 | Long error: 3.36 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.19 | Error: 0.19 | Output: 5.61 | Time (ms): 117700 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.63 | Long error: 3.37 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 0.00 | Angle: -0.13 | Error: 0.13 | Output: 5.61 | Time (ms): 117867 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.59 | Long error: 3.41 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.11 | Error: 0.11 | Output: 5.61 | Time (ms): 118035 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.65 | Long error: 3.35 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.09 | Error: 0.09 | Output: 5.61 | Time (ms): 118202 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.58 | Long error: 3.42 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.16 | Error: 0.16 | Output: 5.61 | Time (ms): 118370 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.84 | Long error: 3.16 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.17 | Error: 0.17 | Output: 5.61 | Time (ms): 118537 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.78 | Long error: 3.22 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.11 | Error: 0.11 | Output: 5.61 | Time (ms): 118704 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.81 | Long error: 3.19 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 165
+
+Target: 0.00 | Angle: -0.16 | Error: 0.16 | Output: 5.61 | Time (ms): 118872 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.90 | Long error: 3.10 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 166
+
+Target: 0.00 | Angle: -0.08 | Error: 0.08 | Output: 5.61 | Time (ms): 119038 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.78 | Long error: 3.22 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.12 | Error: 0.12 | Output: 5.61 | Time (ms): 119205 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.77 | Long error: 3.23 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.08 | Error: 0.08 | Output: 5.61 | Time (ms): 119372 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.77 | Long error: 3.23 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.12 | Error: 0.12 | Output: 5.61 | Time (ms): 119540 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.89 | Long error: 3.11 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 0.00 | Angle: -0.08 | Error: 0.08 | Output: 5.61 | Time (ms): 119707 | Prop: 0.43 | Der: -0.11 | Int: 5.29 | Long target: 100.00 | Long angle: 96.91 | Long error: 3.09 | Long output: 2.88 | Long prop: 0.76 | Long der: 0.03 | Long int: 2.08 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: -0.11 | Error: 10.11 | Output: 7.16 | Time (ms): 119875 | Prop: 1.01 | Der: 0.63 | Int: 5.52 | Long target: 80.00 | Long angle: 97.01 | Long error: -17.01 | Long output: -0.91 | Long prop: -1.70 | Long der: -0.60 | Long int: 1.39 | left bottom front muscle open(ms): 7 | right bottom front muscle open(ms): 5 | left bottom back muscle open(ms): -7 | right bottom back muscle open(ms): -9 | Loop time (ms): 342
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 1.94 | Error: 8.06 | Output: 6.86 | Time (ms): 120217 | Prop: 0.81 | Der: -0.04 | Int: 6.09 | Long target: 80.00 | Long angle: 98.52 | Long error: -18.52 | Long output: -2.00 | Long prop: -1.85 | Long der: -0.02 | Long int: -0.13 | left bottom front muscle open(ms): 8 | right bottom front muscle open(ms): 3 | left bottom back muscle open(ms): -5 | right bottom back muscle open(ms): -10 | Loop time (ms): 351
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 4.49 | Error: 5.51 | Output: 7.00 | Time (ms): 120568 | Prop: 0.55 | Der: -0.05 | Int: 6.50 | Long target: 80.00 | Long angle: 96.15 | Long error: -16.15 | Long output: -3.07 | Long prop: -1.62 | Long der: 0.03 | Long int: -1.49 | left bottom front muscle open(ms): 9 | right bottom front muscle open(ms): 3 | left bottom back muscle open(ms): -4 | right bottom back muscle open(ms): -11 | Loop time (ms): 355
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 7.47 | Error: 2.53 | Output: 7.00 | Time (ms): 120924 | Prop: 0.55 | Der: -0.05 | Int: 6.50 | Long target: 80.00 | Long angle: 89.90 | Long error: -9.90 | Long output: -3.24 | Long prop: -0.99 | Long der: 0.09 | Long int: -2.33 | left bottom front muscle open(ms): 3 | right bottom front muscle open(ms): -1 | left bottom back muscle open(ms): 3 | right bottom back muscle open(ms): -3 | Loop time (ms): 354
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 8.48 | Error: 1.52 | Output: 7.00 | Time (ms): 121277 | Prop: 0.55 | Der: -0.05 | Int: 6.50 | Long target: 80.00 | Long angle: 91.46 | Long error: -11.46 | Long output: -4.47 | Long prop: -1.15 | Long der: -0.02 | Long int: -3.30 | left bottom front muscle open(ms): 4 | right bottom front muscle open(ms): -3 | left bottom back muscle open(ms): 4 | right bottom back muscle open(ms): -5 | Loop time (ms): 352
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 5.98 | Error: 4.02 | Output: 7.24 | Time (ms): 121630 | Prop: 0.40 | Der: 0.05 | Int: 6.79 | Long target: 80.00 | Long angle: 88.08 | Long error: -8.08 | Long output: -4.75 | Long prop: -0.81 | Long der: 0.05 | Long int: -3.99 | left bottom front muscle open(ms): 11 | right bottom front muscle open(ms): 2 | left bottom back muscle open(ms): -3 | right bottom back muscle open(ms): -13 | Loop time (ms): 358
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 2.01 | Error: 7.99 | Output: 8.27 | Time (ms): 121989 | Prop: 0.80 | Der: 0.07 | Int: 7.40 | Long target: 80.00 | Long angle: 89.30 | Long error: -9.30 | Long output: -5.74 | Long prop: -0.93 | Long der: -0.02 | Long int: -4.79 | left bottom front muscle open(ms): 13 | right bottom front muscle open(ms): 3 | left bottom back muscle open(ms): -3 | right bottom back muscle open(ms): -15 | Loop time (ms): 362
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 1.21 | Error: 8.79 | Output: 8.97 | Time (ms): 122350 | Prop: 0.88 | Der: 0.01 | Int: 8.07 | Long target: 80.00 | Long angle: 86.63 | Long error: -6.63 | Long output: -5.99 | Long prop: -0.66 | Long der: 0.04 | Long int: -5.36 | left bottom front muscle open(ms): 13 | right bottom front muscle open(ms): 2 | left bottom back muscle open(ms): -4 | right bottom back muscle open(ms): -17 | Loop time (ms): 364
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 2.31 | Error: 7.69 | Output: 9.42 | Time (ms): 122715 | Prop: 0.77 | Der: -0.02 | Int: 8.67 | Long target: 80.00 | Long angle: 85.08 | Long error: -5.08 | Long output: -5.99 | Long prop: -0.66 | Long der: 0.04 | Long int: -5.36 | left bottom front muscle open(ms): 9 | right bottom front muscle open(ms): 9 | left bottom back muscle open(ms): -11 | right bottom back muscle open(ms): -11 | Loop time (ms): 353
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 2.86 | Error: 7.14 | Output: 9.91 | Time (ms): 123069 | Prop: 0.71 | Der: -0.01 | Int: 9.20 | Long target: 80.00 | Long angle: 84.59 | Long error: -4.59 | Long output: -5.99 | Long prop: -0.66 | Long der: 0.04 | Long int: -5.36 | left bottom front muscle open(ms): 9 | right bottom front muscle open(ms): 9 | left bottom back muscle open(ms): -11 | right bottom back muscle open(ms): -11 | Loop time (ms): 354
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 4.96 | Error: 5.04 | Output: 10.04 | Time (ms): 123423 | Prop: 0.50 | Der: -0.04 | Int: 9.58 | Long target: 80.00 | Long angle: 86.05 | Long error: -6.05 | Long output: -6.50 | Long prop: -0.60 | Long der: -0.02 | Long int: -5.88 | left bottom front muscle open(ms): 16 | right bottom front muscle open(ms): 4 | left bottom back muscle open(ms): -5 | right bottom back muscle open(ms): -19 | Loop time (ms): 368
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 5.99 | Error: 4.01 | Output: 10.27 | Time (ms): 123792 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 87.72 | Long error: -7.72 | Long output: -7.36 | Long prop: -0.77 | Long der: -0.02 | Long int: -6.56 | left bottom front muscle open(ms): 17 | right bottom front muscle open(ms): 3 | left bottom back muscle open(ms): -4 | right bottom back muscle open(ms): -20 | Loop time (ms): 372
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: 10.00 | Angle: 9.87 | Error: 0.13 | Output: 10.27 | Time (ms): 124163 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 87.40 | Long error: -7.40 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 7 | right bottom front muscle open(ms): -5 | left bottom back muscle open(ms): 7 | right bottom back muscle open(ms): -9 | Loop time (ms): 342
+
+Target: 10.00 | Angle: 13.73 | Error: -3.73 | Output: 10.27 | Time (ms): 124506 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 80.78 | Long error: -0.78 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 8.90 | Error: 1.10 | Output: 10.27 | Time (ms): 124674 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 84.53 | Long error: -4.53 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.72 | Error: 2.28 | Output: 10.27 | Time (ms): 124840 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 85.64 | Long error: -5.64 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.11 | Error: 2.89 | Output: 10.27 | Time (ms): 125008 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 82.46 | Long error: -2.46 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 6.56 | Error: 3.44 | Output: 10.27 | Time (ms): 125176 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.23 | Long error: -3.23 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 6.84 | Error: 3.16 | Output: 10.27 | Time (ms): 125344 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 84.35 | Long error: -4.35 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.12 | Error: 2.88 | Output: 10.27 | Time (ms): 125511 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.86 | Long error: -3.86 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 6.99 | Error: 3.01 | Output: 10.27 | Time (ms): 125679 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.34 | Long error: -3.34 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.00 | Error: 3.00 | Output: 10.27 | Time (ms): 125847 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.47 | Long error: -3.47 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 6.92 | Error: 3.08 | Output: 10.27 | Time (ms): 126014 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.82 | Long error: -3.82 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.02 | Error: 2.98 | Output: 10.27 | Time (ms): 126182 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.87 | Long error: -3.87 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.06 | Error: 2.94 | Output: 10.27 | Time (ms): 126350 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.71 | Long error: -3.71 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.05 | Error: 2.95 | Output: 10.27 | Time (ms): 126518 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.57 | Long error: -3.57 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.12 | Error: 2.88 | Output: 10.27 | Time (ms): 126686 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.63 | Long error: -3.63 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.06 | Error: 2.94 | Output: 10.27 | Time (ms): 126853 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.75 | Long error: -3.75 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.09 | Error: 2.91 | Output: 10.27 | Time (ms): 127021 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.82 | Long error: -3.82 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.10 | Error: 2.90 | Output: 10.27 | Time (ms): 127188 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.85 | Long error: -3.85 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.12 | Error: 2.88 | Output: 10.27 | Time (ms): 127356 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.77 | Long error: -3.77 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.06 | Error: 2.94 | Output: 10.27 | Time (ms): 127523 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.74 | Long error: -3.74 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.10 | Error: 2.90 | Output: 10.27 | Time (ms): 127691 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.77 | Long error: -3.77 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.15 | Error: 2.85 | Output: 10.27 | Time (ms): 127859 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.76 | Long error: -3.76 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.16 | Error: 2.84 | Output: 10.27 | Time (ms): 128027 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.77 | Long error: -3.77 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.22 | Error: 2.78 | Output: 10.27 | Time (ms): 128195 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.92 | Long error: -3.92 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.20 | Error: 2.80 | Output: 10.27 | Time (ms): 128362 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.87 | Long error: -3.87 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.23 | Error: 2.77 | Output: 10.27 | Time (ms): 128530 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.72 | Long error: -3.72 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.20 | Error: 2.80 | Output: 10.27 | Time (ms): 128698 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.78 | Long error: -3.78 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.29 | Error: 2.71 | Output: 10.27 | Time (ms): 128866 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.87 | Long error: -3.87 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.33 | Error: 2.67 | Output: 10.27 | Time (ms): 129034 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.83 | Long error: -3.83 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.30 | Error: 2.70 | Output: 10.27 | Time (ms): 129202 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.84 | Long error: -3.84 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: 10.00 | Angle: 7.37 | Error: 2.63 | Output: 10.27 | Time (ms): 129370 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.85 | Long error: -3.85 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 166
+
+Target: 10.00 | Angle: 7.41 | Error: 2.59 | Output: 10.27 | Time (ms): 129538 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.94 | Long error: -3.94 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: 10.00 | Angle: 7.42 | Error: 2.58 | Output: 10.27 | Time (ms): 129704 | Prop: 0.40 | Der: -0.02 | Int: 9.89 | Long target: 80.00 | Long angle: 83.99 | Long error: -3.99 | Long output: -7.96 | Long prop: -0.74 | Long der: 0.00 | Long int: -7.22 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: -20.00 | Angle: 7.47 | Error: -27.47 | Output: 5.03 | Time (ms): 129872 | Prop: -2.75 | Der: -1.50 | Int: 9.28 | Long target: 90.00 | Long angle: 83.87 | Long error: 6.13 | Long output: -6.06 | Long prop: 0.61 | Long der: 0.30 | Long int: -6.97 | left bottom front muscle open(ms): 11 | right bottom front muscle open(ms): -2 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): -10 | Loop time (ms): 316
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: -20.00 | Angle: 7.73 | Error: -27.73 | Output: 4.73 | Time (ms): 130188 | Prop: -2.77 | Der: -0.01 | Int: 7.51 | Long target: 90.00 | Long angle: 84.38 | Long error: 5.62 | Long output: -6.06 | Long prop: 0.61 | Long der: 0.30 | Long int: -6.97 | left bottom front muscle open(ms): 4 | right bottom front muscle open(ms): 4 | left bottom back muscle open(ms): -5 | right bottom back muscle open(ms): -5 | Loop time (ms): 350
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: -20.00 | Angle: 4.55 | Error: -24.55 | Output: 3.31 | Time (ms): 130538 | Prop: -2.45 | Der: 0.06 | Int: 5.71 | Long target: 90.00 | Long angle: 83.98 | Long error: 6.02 | Long output: -5.86 | Long prop: 0.60 | Long der: 0.01 | Long int: -6.47 | left bottom front muscle open(ms): 8 | right bottom front muscle open(ms): -4 | left bottom back muscle open(ms): 2 | right bottom back muscle open(ms): -7 | Loop time (ms): 349
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+Target: -20.00 | Angle: 12.08 | Error: -32.08 | Output: 0.01 | Time (ms): 130888 | Prop: -3.21 | Der: -0.14 | Int: 3.36 | Long target: 90.00 | Long angle: 82.83 | Long error: 7.17 | Long output: -5.13 | Long prop: 0.72 | Long der: 0.02 | Long int: -5.87 | left bottom front muscle open(ms): 5 | right bottom front muscle open(ms): -6 | left bottom back muscle open(ms): 5 | right bottom back muscle open(ms): -3 | Loop time (ms): 338
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+Target: -20.00 | Angle: 11.92 | Error: -31.92 | Output: -2.05 | Time (ms): 131226 | Prop: -3.19 | Der: 0.00 | Int: 1.14 | Long target: 90.00 | Long angle: 75.25 | Long error: 14.75 | Long output: -3.08 | Long prop: 1.48 | Long der: 0.11 | Long int: -4.67 | left bottom front muscle open(ms): 1 | right bottom front muscle open(ms): -5 | left bottom back muscle open(ms): 5 | right bottom back muscle open(ms): 0 | Loop time (ms): 304
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+Target: -20.00 | Angle: 5.31 | Error: -25.31 | Output: -2.77 | Time (ms): 131530 | Prop: -2.53 | Der: 0.15 | Int: -0.39 | Long target: 90.00 | Long angle: 70.41 | Long error: 19.59 | Long output: -1.20 | Long prop: 1.96 | Long der: 0.08 | Long int: -3.24 | left bottom front muscle open(ms): -1 | right bottom front muscle open(ms): -4 | left bottom back muscle open(ms): 3 | right bottom back muscle open(ms): 0 | Loop time (ms): 312
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: 1.23 | Error: -21.23 | Output: -3.75 | Time (ms): 131842 | Prop: -2.12 | Der: 0.09 | Int: -1.71 | Long target: 90.00 | Long angle: 73.30 | Long error: 16.70 | Long output: -0.37 | Long prop: 1.67 | Long der: -0.05 | Long int: -1.99 | left bottom front muscle open(ms): -3 | right bottom front muscle open(ms): -4 | left bottom back muscle open(ms): 3 | right bottom back muscle open(ms): 2 | Loop time (ms): 354
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: -0.03 | Error: -19.97 | Output: -5.17 | Time (ms): 132195 | Prop: -2.00 | Der: 0.02 | Int: -3.19 | Long target: 90.00 | Long angle: 77.11 | Long error: 12.89 | Long output: 0.34 | Long prop: 1.29 | Long der: -0.05 | Long int: -0.90 | left bottom front muscle open(ms): -6 | right bottom front muscle open(ms): -5 | left bottom back muscle open(ms): 4 | right bottom back muscle open(ms): 5 | Loop time (ms): 342
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Opening Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: -3.02 | Error: -16.98 | Output: -6.04 | Time (ms): 132537 | Prop: -1.70 | Der: 0.06 | Int: -4.40 | Long target: 90.00 | Long angle: 77.54 | Long error: 12.46 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): -8 | right bottom front muscle open(ms): -5 | left bottom back muscle open(ms): 4 | right bottom back muscle open(ms): 7 | Loop time (ms): 346
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: -6.37 | Error: -13.63 | Output: -6.68 | Time (ms): 132883 | Prop: -1.36 | Der: 0.07 | Int: -5.39 | Long target: 90.00 | Long angle: 84.16 | Long error: 5.84 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): -8 | right bottom front muscle open(ms): -8 | left bottom back muscle open(ms): 6 | right bottom back muscle open(ms): 6 | Loop time (ms): 345
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Opening Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Opening Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+Target: -20.00 | Angle: -10.06 | Error: -9.94 | Output: -7.03 | Time (ms): 133229 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 92.33 | Long error: -2.33 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): -8 | right bottom front muscle open(ms): -8 | left bottom back muscle open(ms): 7 | right bottom back muscle open(ms): 7 | Loop time (ms): 347
+
+Target: -20.00 | Angle: -17.24 | Error: -2.76 | Output: -7.03 | Time (ms): 133576 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 94.17 | Long error: -4.17 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -21.06 | Error: 1.06 | Output: -7.03 | Time (ms): 133744 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 87.45 | Long error: 2.55 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -22.60 | Error: 2.60 | Output: -7.03 | Time (ms): 133912 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.89 | Long error: 0.11 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.39 | Error: 2.39 | Output: -7.03 | Time (ms): 134080 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.70 | Long error: 0.30 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.33 | Error: 2.33 | Output: -7.03 | Time (ms): 134247 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 88.92 | Long error: 1.08 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.48 | Error: 2.48 | Output: -7.03 | Time (ms): 134415 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.46 | Long error: 0.54 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.53 | Error: 2.53 | Output: -7.03 | Time (ms): 134583 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.60 | Long error: 0.40 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.58 | Error: 2.58 | Output: -7.03 | Time (ms): 134751 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.31 | Long error: 0.69 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.69 | Error: 2.69 | Output: -7.03 | Time (ms): 134919 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.43 | Long error: 0.57 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.69 | Error: 2.69 | Output: -7.03 | Time (ms): 135087 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.52 | Long error: 0.48 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 166
+
+Target: -20.00 | Angle: -22.59 | Error: 2.59 | Output: -7.03 | Time (ms): 135255 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.49 | Long error: 0.51 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -22.72 | Error: 2.72 | Output: -7.03 | Time (ms): 135422 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.60 | Long error: 0.40 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -22.71 | Error: 2.71 | Output: -7.03 | Time (ms): 135590 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.69 | Long error: 0.31 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -22.71 | Error: 2.71 | Output: -7.03 | Time (ms): 135757 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.64 | Long error: 0.36 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.87 | Error: 2.87 | Output: -7.03 | Time (ms): 135925 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.75 | Long error: 0.25 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.89 | Error: 2.89 | Output: -7.03 | Time (ms): 136093 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.73 | Long error: 0.27 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -22.84 | Error: 2.84 | Output: -7.03 | Time (ms): 136260 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.92 | Long error: 0.08 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -22.88 | Error: 2.88 | Output: -7.03 | Time (ms): 136428 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.78 | Long error: 0.22 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -22.96 | Error: 2.96 | Output: -7.03 | Time (ms): 136596 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 89.95 | Long error: 0.05 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -22.97 | Error: 2.97 | Output: -7.03 | Time (ms): 136764 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.15 | Long error: -0.15 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -23.07 | Error: 3.07 | Output: -7.03 | Time (ms): 136931 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.10 | Long error: -0.10 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -23.15 | Error: 3.15 | Output: -7.03 | Time (ms): 137099 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.05 | Long error: -0.05 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.11 | Error: 3.11 | Output: -7.03 | Time (ms): 137267 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.25 | Long error: -0.25 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.16 | Error: 3.16 | Output: -7.03 | Time (ms): 137435 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.14 | Long error: -0.14 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.14 | Error: 3.14 | Output: -7.03 | Time (ms): 137603 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.46 | Long error: -0.46 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 167
+
+Target: -20.00 | Angle: -23.19 | Error: 3.19 | Output: -7.03 | Time (ms): 137771 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.44 | Long error: -0.44 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.29 | Error: 3.29 | Output: -7.03 | Time (ms): 137938 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.52 | Long error: -0.52 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.23 | Error: 3.23 | Output: -7.03 | Time (ms): 138106 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.50 | Long error: -0.50 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.25 | Error: 3.25 | Output: -7.03 | Time (ms): 138274 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.52 | Long error: -0.52 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.31 | Error: 3.31 | Output: -7.03 | Time (ms): 138442 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.57 | Long error: -0.57 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.33 | Error: 3.33 | Output: -7.03 | Time (ms): 138610 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.75 | Long error: -0.75 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.46 | Error: 3.46 | Output: -7.03 | Time (ms): 138778 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.80 | Long error: -0.80 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.40 | Error: 3.40 | Output: -7.03 | Time (ms): 138946 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.81 | Long error: -0.81 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.42 | Error: 3.42 | Output: -7.03 | Time (ms): 139114 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.85 | Long error: -0.85 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.53 | Error: 3.53 | Output: -7.03 | Time (ms): 139283 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.92 | Long error: -0.92 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.56 | Error: 3.56 | Output: -7.03 | Time (ms): 139451 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.96 | Long error: -0.96 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.53 | Error: 3.53 | Output: -7.03 | Time (ms): 139619 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 90.97 | Long error: -0.97 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+Target: -20.00 | Angle: -23.71 | Error: 3.71 | Output: -7.03 | Time (ms): 139787 | Prop: -0.99 | Der: 0.07 | Int: -6.11 | Long target: 90.00 | Long angle: 91.03 | Long error: -1.03 | Long output: 1.36 | Long prop: 1.25 | Long der: -0.01 | Long int: 0.12 | left bottom front muscle open(ms): 0 | right bottom front muscle open(ms): 0 | left bottom back muscle open(ms): 0 | right bottom back muscle open(ms): 0 | Loop time (ms): 168
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Inlet valve, motor: 4 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 60
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 4
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 10
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 7
+
+PHYSICAL MOVEMENT: Closing Outlet valve, pin: 6
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 12
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 3 on board with address: 61
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 11
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 4 on board with address: 61
+
+PHYSICAL MOVEMENT: Closing Inlet valve, pin: 13
+
+PHYSICAL MOVEMENT: Closing Outlet valve, motor: 1 on board with address: 60
