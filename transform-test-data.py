@@ -1,4 +1,4 @@
-path = "pid-tests/transformed-data/pid-test-39.txt"
+path = "pid-tests/transformed-data/pid-test-40.txt"
 
 cleaned_data = []
 
@@ -28,6 +28,14 @@ with open(path, "r") as f:
         line = line.replace('right bottom front muscle open(ms): ', '')
         line = line.replace('left bottom back muscle open(ms): ', '')
         line = line.replace('right bottom back muscle open(ms): ', '')
+        line = line.replace('right bottom back muscle open(ms): ', '')
+        line = line.replace('Upper leg lateral target: ', '')
+        line = line.replace('Upper leg lateral angle: ', '')
+        line = line.replace('Upper leg lateral error: ', '')
+        line = line.replace('Upper leg lateral output: ', '')
+        line = line.replace('Upper leg lateral prop: ', '')
+        line = line.replace('Upper leg lateral der: ', '')
+        line = line.replace('Upper leg lateral int: ', '')
         line = line.replace(' | ', ';')
         line = line.replace('| ', ';')
         cleaned_data.append(line)
