@@ -1,0 +1,435 @@
+target -30;0, -70;0 degrees, -100;0 and -10;0 degrees for upper leg
+
+Starting PID control for 20s...
+
+Target: -30.00 | Angle: -83.44 | Error: 53.44 | Output: 7.03 | Time (ms): 66772 | Prop: 5.34 | Der: -0.23 | Int: 1.91 | Loop time (ms): 51
+
+Target: -30.00 | Angle: -63.50 | Error: 33.50 | Output: 6.35 | Time (ms): 66962 | Prop: 3.35 | Der: -0.93 | Int: 3.93 | Loop time (ms): 49
+
+Target: -30.00 | Angle: -42.10 | Error: 12.10 | Output: 5.54 | Time (ms): 67144 | Prop: 1.21 | Der: -0.42 | Int: 4.75 | Loop time (ms): 48
+
+Target: -30.00 | Angle: -22.30 | Error: -7.70 | Output: 3.64 | Time (ms): 67333 | Prop: -0.77 | Der: -0.42 | Int: 4.83 | Loop time (ms): 47
+
+Target: -30.00 | Angle: -25.16 | Error: -4.84 | Output: 4.32 | Time (ms): 67509 | Prop: -0.48 | Der: 0.31 | Int: 4.49 | Loop time (ms): 48
+
+Target: -30.00 | Angle: -23.02 | Error: -6.98 | Output: 3.59 | Time (ms): 67692 | Prop: -0.70 | Der: 0.00 | Int: 4.29 | Loop time (ms): 46
+
+Target: -30.00 | Angle: -25.47 | Error: -4.53 | Output: 3.63 | Time (ms): 67875 | Prop: -0.45 | Der: -0.04 | Int: 4.12 | Loop time (ms): 46
+
+Target: -30.00 | Angle: -27.79 | Error: -2.21 | Output: 2.64 | Time (ms): 68025 | Prop: -0.42 | Der: -1.05 | Int: 4.11 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -22.41 | Error: -7.59 | Output: 3.13 | Time (ms): 68140 | Prop: -0.76 | Der: -0.07 | Int: 3.96 | Loop time (ms): 47
+
+Target: -30.00 | Angle: -30.36 | Error: 0.36 | Output: 3.49 | Time (ms): 68291 | Prop: -0.45 | Der: 0.09 | Int: 3.85 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -35.80 | Error: 5.80 | Output: 4.57 | Time (ms): 68439 | Prop: 0.58 | Der: -0.04 | Int: 4.03 | Loop time (ms): 48
+
+Target: -30.00 | Angle: -28.94 | Error: -1.06 | Output: 4.37 | Time (ms): 68591 | Prop: 0.46 | Der: -0.24 | Int: 4.15 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -24.31 | Error: -5.69 | Output: 3.44 | Time (ms): 68739 | Prop: -0.57 | Der: 0.04 | Int: 3.97 | Loop time (ms): 47
+
+Target: -30.00 | Angle: -29.71 | Error: -0.29 | Output: 3.60 | Time (ms): 68887 | Prop: -0.41 | Der: 0.08 | Int: 3.93 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -35.70 | Error: 5.70 | Output: 4.54 | Time (ms): 69000 | Prop: 0.57 | Der: -0.10 | Int: 4.07 | Loop time (ms): 48
+
+Target: -30.00 | Angle: -23.78 | Error: -6.22 | Output: 3.49 | Time (ms): 69187 | Prop: -0.62 | Der: 0.13 | Int: 3.98 | Loop time (ms): 47
+
+Target: -30.00 | Angle: -28.19 | Error: -1.81 | Output: 3.31 | Time (ms): 69337 | Prop: -0.55 | Der: -0.01 | Int: 3.87 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -26.75 | Error: -3.25 | Output: 2.17 | Time (ms): 69450 | Prop: -0.42 | Der: -1.27 | Int: 3.86 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -22.51 | Error: -7.49 | Output: 2.86 | Time (ms): 69560 | Prop: -0.75 | Der: -0.10 | Int: 3.72 | Loop time (ms): 45
+
+Target: -30.00 | Angle: -26.35 | Error: -3.65 | Output: 1.69 | Time (ms): 69707 | Prop: -0.47 | Der: -1.50 | Int: 3.65 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -35.00 | Error: 5.00 | Output: 4.07 | Time (ms): 69822 | Prop: 0.50 | Der: -0.21 | Int: 3.78 | Loop time (ms): 47
+
+Target: -30.00 | Angle: -30.91 | Error: 0.91 | Output: 4.14 | Time (ms): 69975 | Prop: 0.41 | Der: -0.16 | Int: 3.89 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -28.65 | Error: -1.35 | Output: 3.34 | Time (ms): 70085 | Prop: -0.52 | Der: 0.03 | Int: 3.83 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.24 | Error: -0.76 | Output: 3.34 | Time (ms): 70196 | Prop: -0.52 | Der: 0.03 | Int: 3.83 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -25.68 | Error: -4.32 | Output: 3.46 | Time (ms): 70339 | Prop: -0.43 | Der: 0.11 | Int: 3.78 | Loop time (ms): 47
+
+Target: -30.00 | Angle: -26.00 | Error: -4.00 | Output: 3.44 | Time (ms): 70495 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 47
+
+Target: -30.00 | Angle: -30.45 | Error: 0.45 | Output: 3.44 | Time (ms): 70643 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.01 | Error: -0.99 | Output: 3.44 | Time (ms): 70754 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -30.00 | Error: -0.00 | Output: 3.44 | Time (ms): 70864 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 10
+
+Target: -30.00 | Angle: -29.68 | Error: -0.32 | Output: 3.44 | Time (ms): 70975 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.39 | Error: -0.61 | Output: 3.44 | Time (ms): 71086 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.71 | Error: -0.29 | Output: 3.44 | Time (ms): 71196 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.60 | Error: -0.40 | Output: 3.44 | Time (ms): 71307 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.67 | Error: -0.33 | Output: 3.44 | Time (ms): 71417 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 10
+
+Target: -30.00 | Angle: -29.97 | Error: -0.03 | Output: 3.44 | Time (ms): 71529 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.49 | Error: -0.51 | Output: 3.44 | Time (ms): 71640 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.72 | Error: -0.28 | Output: 3.44 | Time (ms): 71750 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.58 | Error: -0.42 | Output: 3.44 | Time (ms): 71861 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.60 | Error: -0.40 | Output: 3.44 | Time (ms): 71971 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.55 | Error: -0.45 | Output: 3.44 | Time (ms): 72082 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.55 | Error: -0.45 | Output: 3.44 | Time (ms): 72193 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.41 | Error: -0.59 | Output: 3.44 | Time (ms): 72303 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.63 | Error: -0.37 | Output: 3.44 | Time (ms): 72414 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.31 | Error: -0.69 | Output: 3.44 | Time (ms): 72524 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 10
+
+Target: -30.00 | Angle: -29.44 | Error: -0.56 | Output: 3.44 | Time (ms): 72635 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.42 | Error: -0.58 | Output: 3.44 | Time (ms): 72747 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.31 | Error: -0.69 | Output: 3.44 | Time (ms): 72857 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.27 | Error: -0.73 | Output: 3.44 | Time (ms): 72968 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.13 | Error: -0.87 | Output: 3.44 | Time (ms): 73078 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.35 | Error: -0.65 | Output: 3.44 | Time (ms): 73189 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.45 | Error: -0.55 | Output: 3.44 | Time (ms): 73299 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.46 | Error: -0.54 | Output: 3.44 | Time (ms): 73410 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.28 | Error: -0.72 | Output: 3.44 | Time (ms): 73521 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.29 | Error: -0.71 | Output: 3.44 | Time (ms): 73631 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.29 | Error: -0.71 | Output: 3.44 | Time (ms): 73742 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 9
+
+Target: -30.00 | Angle: -29.45 | Error: -0.55 | Output: 3.44 | Time (ms): 73852 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 10
+
+Target: -30.00 | Angle: -29.22 | Error: -0.78 | Output: 3.44 | Time (ms): 73964 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -30.00 | Angle: -29.30 | Error: -0.70 | Output: 3.44 | Time (ms): 74075 | Prop: -0.40 | Der: 0.11 | Int: 3.73 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -27.06 | Error: -42.94 | Output: -1.71 | Time (ms): 74206 | Prop: -4.29 | Der: -0.34 | Int: 2.92 | Loop time (ms): 43
+
+Target: -70.00 | Angle: -28.28 | Error: -41.72 | Output: -2.86 | Time (ms): 74369 | Prop: -4.17 | Der: 0.03 | Int: 1.29 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -34.02 | Error: -35.98 | Output: -3.77 | Time (ms): 74537 | Prop: -3.60 | Der: 0.01 | Int: -0.19 | Loop time (ms): 47
+
+Target: -70.00 | Angle: -39.66 | Error: -30.34 | Output: -4.43 | Time (ms): 74710 | Prop: -3.03 | Der: 0.10 | Int: -1.50 | Loop time (ms): 47
+
+Target: -70.00 | Angle: -51.22 | Error: -18.78 | Output: -3.97 | Time (ms): 74885 | Prop: -1.88 | Der: 0.40 | Int: -2.50 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -57.98 | Error: -12.02 | Output: -4.16 | Time (ms): 75056 | Prop: -1.20 | Der: 0.09 | Int: -3.05 | Loop time (ms): 47
+
+Target: -70.00 | Angle: -64.61 | Error: -5.39 | Output: -3.65 | Time (ms): 75228 | Prop: -0.54 | Der: 0.30 | Int: -3.41 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -68.82 | Error: -1.18 | Output: -5.41 | Time (ms): 75376 | Prop: -0.49 | Der: -1.50 | Int: -3.42 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -69.03 | Error: -0.97 | Output: -5.45 | Time (ms): 75490 | Prop: -0.52 | Der: -1.50 | Int: -3.43 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -76.51 | Error: 6.51 | Output: -2.75 | Time (ms): 75632 | Prop: 0.65 | Der: -0.20 | Int: -3.20 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -74.38 | Error: 4.38 | Output: -2.74 | Time (ms): 75805 | Prop: 0.44 | Der: -0.12 | Int: -3.06 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -75.06 | Error: 5.06 | Output: -2.58 | Time (ms): 75980 | Prop: 0.51 | Der: -0.25 | Int: -2.84 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -75.87 | Error: 5.87 | Output: -2.26 | Time (ms): 76157 | Prop: 0.59 | Der: -0.19 | Int: -2.66 | Loop time (ms): 47
+
+Target: -70.00 | Angle: -74.09 | Error: 4.09 | Output: -2.10 | Time (ms): 76327 | Prop: 0.41 | Der: -0.06 | Int: -2.45 | Loop time (ms): 47
+
+Target: -70.00 | Angle: -74.92 | Error: 4.92 | Output: -1.70 | Time (ms): 76496 | Prop: 0.49 | Der: 0.04 | Int: -2.24 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -73.79 | Error: 3.79 | Output: -1.02 | Time (ms): 76664 | Prop: 0.42 | Der: 0.67 | Int: -2.11 | Loop time (ms): 10
+
+Target: -70.00 | Angle: -73.53 | Error: 3.53 | Output: -1.77 | Time (ms): 76798 | Prop: 0.41 | Der: -0.16 | Int: -2.02 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -68.34 | Error: -1.66 | Output: -1.77 | Time (ms): 76909 | Prop: 0.41 | Der: -0.16 | Int: -2.02 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -69.15 | Error: -0.85 | Output: -2.56 | Time (ms): 77019 | Prop: -0.40 | Der: -0.14 | Int: -2.02 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -71.71 | Error: 1.71 | Output: -1.54 | Time (ms): 77150 | Prop: 0.43 | Der: -0.01 | Int: -1.96 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -66.58 | Error: -3.42 | Output: -2.56 | Time (ms): 77272 | Prop: -0.48 | Der: -0.07 | Int: -2.01 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -63.28 | Error: -6.72 | Output: -2.95 | Time (ms): 77401 | Prop: -0.67 | Der: -0.08 | Int: -2.20 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -64.37 | Error: -5.63 | Output: -3.01 | Time (ms): 77566 | Prop: -0.56 | Der: -0.01 | Int: -2.43 | Loop time (ms): 47
+
+Target: -70.00 | Angle: -66.80 | Error: -3.20 | Output: -3.00 | Time (ms): 77717 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -66.01 | Error: -3.99 | Output: -3.00 | Time (ms): 77828 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -66.86 | Error: -3.14 | Output: -3.00 | Time (ms): 77938 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -66.04 | Error: -3.96 | Output: -3.00 | Time (ms): 78049 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -66.74 | Error: -3.26 | Output: -3.00 | Time (ms): 78159 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -66.15 | Error: -3.85 | Output: -3.00 | Time (ms): 78270 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -66.32 | Error: -3.68 | Output: -3.00 | Time (ms): 78381 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -66.40 | Error: -3.60 | Output: -3.00 | Time (ms): 78491 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -66.53 | Error: -3.47 | Output: -3.00 | Time (ms): 78602 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -66.27 | Error: -3.73 | Output: -3.00 | Time (ms): 78712 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -66.15 | Error: -3.85 | Output: -3.00 | Time (ms): 78823 | Prop: -0.45 | Der: -0.02 | Int: -2.52 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -65.88 | Error: -4.12 | Output: -2.98 | Time (ms): 78945 | Prop: -0.41 | Der: 0.04 | Int: -2.61 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -63.52 | Error: -6.48 | Output: -3.60 | Time (ms): 79091 | Prop: -0.65 | Der: -0.23 | Int: -2.73 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -74.36 | Error: 4.36 | Output: -2.47 | Time (ms): 79244 | Prop: 0.44 | Der: -0.17 | Int: -2.74 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -74.30 | Error: 4.30 | Output: -2.34 | Time (ms): 79418 | Prop: 0.43 | Der: -0.18 | Int: -2.60 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -73.02 | Error: 3.02 | Output: -0.90 | Time (ms): 79584 | Prop: 0.42 | Der: 1.19 | Int: -2.50 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -74.28 | Error: 4.28 | Output: -2.25 | Time (ms): 79726 | Prop: 0.43 | Der: -0.27 | Int: -2.41 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -72.29 | Error: 2.29 | Output: -1.90 | Time (ms): 79899 | Prop: 0.44 | Der: -0.03 | Int: -2.31 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -69.57 | Error: -0.43 | Output: -1.90 | Time (ms): 80010 | Prop: 0.44 | Der: -0.03 | Int: -2.31 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -65.46 | Error: -4.54 | Output: -2.78 | Time (ms): 80122 | Prop: -0.45 | Der: 0.09 | Int: -2.42 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -73.87 | Error: 3.87 | Output: -1.81 | Time (ms): 80273 | Prop: 0.49 | Der: 0.06 | Int: -2.37 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -72.34 | Error: 2.34 | Output: -2.26 | Time (ms): 80398 | Prop: 0.41 | Der: -0.43 | Int: -2.25 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -73.09 | Error: 3.09 | Output: -0.97 | Time (ms): 80531 | Prop: 0.45 | Der: 0.77 | Int: -2.19 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -70.17 | Error: 0.17 | Output: -0.27 | Time (ms): 80641 | Prop: 0.41 | Der: 1.50 | Int: -2.18 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -61.19 | Error: -8.81 | Output: -3.50 | Time (ms): 80778 | Prop: -0.88 | Der: -0.23 | Int: -2.38 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -58.56 | Error: -11.44 | Output: -4.13 | Time (ms): 80946 | Prop: -1.14 | Der: -0.19 | Int: -2.80 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -59.08 | Error: -10.92 | Output: -4.33 | Time (ms): 81117 | Prop: -1.09 | Der: -0.00 | Int: -3.23 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -66.01 | Error: -3.99 | Output: -4.10 | Time (ms): 81287 | Prop: -0.66 | Der: 0.02 | Int: -3.45 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -71.18 | Error: 1.18 | Output: -5.41 | Time (ms): 81397 | Prop: -0.45 | Der: -1.50 | Int: -3.46 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -76.03 | Error: 6.03 | Output: -2.52 | Time (ms): 81536 | Prop: 0.60 | Der: 0.23 | Int: -3.35 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -74.35 | Error: 4.35 | Output: -2.82 | Time (ms): 81703 | Prop: 0.44 | Der: -0.14 | Int: -3.12 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -76.91 | Error: 6.91 | Output: -2.36 | Time (ms): 81882 | Prop: 0.69 | Der: -0.10 | Int: -2.95 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -73.72 | Error: 3.72 | Output: -2.42 | Time (ms): 82048 | Prop: 0.47 | Der: -0.11 | Int: -2.78 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -74.95 | Error: 4.95 | Output: -2.17 | Time (ms): 82180 | Prop: 0.50 | Der: -0.05 | Int: -2.61 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -74.30 | Error: 4.30 | Output: -2.03 | Time (ms): 82349 | Prop: 0.43 | Der: -0.03 | Int: -2.42 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -73.70 | Error: 3.70 | Output: -0.85 | Time (ms): 82518 | Prop: 0.49 | Der: 0.98 | Int: -2.31 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -65.83 | Error: -4.17 | Output: -2.75 | Time (ms): 82638 | Prop: -0.42 | Der: 0.03 | Int: -2.36 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -61.44 | Error: -8.56 | Output: -3.76 | Time (ms): 82807 | Prop: -0.86 | Der: -0.28 | Int: -2.62 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -63.21 | Error: -6.79 | Output: -3.52 | Time (ms): 82976 | Prop: -0.68 | Der: 0.09 | Int: -2.93 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -66.42 | Error: -3.58 | Output: -3.49 | Time (ms): 83145 | Prop: -0.51 | Der: 0.14 | Int: -3.11 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -69.34 | Error: -0.66 | Output: -5.19 | Time (ms): 83256 | Prop: -0.57 | Der: -1.50 | Int: -3.12 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -73.91 | Error: 3.91 | Output: -2.40 | Time (ms): 83399 | Prop: 0.43 | Der: 0.29 | Int: -3.12 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -76.80 | Error: 6.80 | Output: -0.92 | Time (ms): 83511 | Prop: 0.68 | Der: 1.50 | Int: -3.10 | Loop time (ms): 43
+
+Target: -70.00 | Angle: -75.15 | Error: 5.15 | Output: -2.36 | Time (ms): 83674 | Prop: 0.52 | Der: -0.02 | Int: -2.86 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -75.62 | Error: 5.62 | Output: -2.06 | Time (ms): 83844 | Prop: 0.56 | Der: 0.02 | Int: -2.64 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -74.64 | Error: 4.64 | Output: -1.95 | Time (ms): 84008 | Prop: 0.46 | Der: 0.03 | Int: -2.44 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -73.91 | Error: 3.91 | Output: -1.95 | Time (ms): 84173 | Prop: 0.43 | Der: -0.09 | Int: -2.29 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -66.20 | Error: -3.80 | Output: -4.18 | Time (ms): 84322 | Prop: -0.47 | Der: -1.41 | Int: -2.29 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -65.26 | Error: -4.74 | Output: -2.56 | Time (ms): 84453 | Prop: -0.47 | Der: 0.26 | Int: -2.34 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -75.67 | Error: 5.67 | Output: -1.75 | Time (ms): 84608 | Prop: 0.57 | Der: 0.01 | Int: -2.32 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -70.38 | Error: 0.38 | Output: -0.20 | Time (ms): 84753 | Prop: 0.57 | Der: 1.50 | Int: -2.26 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -60.27 | Error: -9.73 | Output: -3.69 | Time (ms): 84884 | Prop: -0.97 | Der: -0.22 | Int: -2.49 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -59.05 | Error: -10.95 | Output: -4.17 | Time (ms): 85052 | Prop: -1.09 | Der: -0.18 | Int: -2.89 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -59.03 | Error: -10.97 | Output: -4.42 | Time (ms): 85223 | Prop: -1.10 | Der: 0.01 | Int: -3.33 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -67.00 | Error: -3.00 | Output: -3.69 | Time (ms): 85392 | Prop: -0.43 | Der: 0.26 | Int: -3.52 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -71.73 | Error: 1.73 | Output: -3.69 | Time (ms): 85502 | Prop: -0.43 | Der: 0.26 | Int: -3.52 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -74.14 | Error: 4.14 | Output: -3.07 | Time (ms): 85642 | Prop: 0.41 | Der: -0.01 | Int: -3.47 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -73.98 | Error: 3.98 | Output: -2.94 | Time (ms): 85807 | Prop: 0.46 | Der: -0.08 | Int: -3.32 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -74.54 | Error: 4.54 | Output: -2.85 | Time (ms): 85939 | Prop: 0.45 | Der: -0.15 | Int: -3.15 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -74.28 | Error: 4.28 | Output: -2.57 | Time (ms): 86104 | Prop: 0.43 | Der: -0.03 | Int: -2.96 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -74.95 | Error: 4.95 | Output: -2.25 | Time (ms): 86272 | Prop: 0.49 | Der: 0.03 | Int: -2.77 | Loop time (ms): 45
+
+Target: -70.00 | Angle: -75.56 | Error: 5.56 | Output: -1.96 | Time (ms): 86441 | Prop: 0.56 | Der: 0.02 | Int: -2.53 | Loop time (ms): 46
+
+Target: -70.00 | Angle: -74.49 | Error: 4.49 | Output: -1.87 | Time (ms): 86610 | Prop: 0.45 | Der: 0.02 | Int: -2.34 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -74.08 | Error: 4.08 | Output: -1.82 | Time (ms): 86779 | Prop: 0.41 | Der: -0.03 | Int: -2.20 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -74.24 | Error: 4.24 | Output: -1.72 | Time (ms): 86951 | Prop: 0.42 | Der: -0.09 | Int: -2.06 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -73.72 | Error: 3.72 | Output: -1.41 | Time (ms): 87114 | Prop: 0.48 | Der: 0.03 | Int: -1.91 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -75.60 | Error: 5.60 | Output: -1.19 | Time (ms): 87248 | Prop: 0.56 | Der: -0.02 | Int: -1.73 | Loop time (ms): 44
+
+Target: -70.00 | Angle: -73.58 | Error: 3.58 | Output: -0.79 | Time (ms): 87414 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -70.15 | Error: 0.15 | Output: -0.79 | Time (ms): 87525 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.15 | Error: -2.85 | Output: -0.79 | Time (ms): 87635 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -68.85 | Error: -1.15 | Output: -0.79 | Time (ms): 87746 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.80 | Error: -2.20 | Output: -0.79 | Time (ms): 87857 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -68.31 | Error: -1.69 | Output: -0.79 | Time (ms): 87967 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.96 | Error: -2.04 | Output: -0.79 | Time (ms): 88078 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.75 | Error: -2.25 | Output: -0.79 | Time (ms): 88188 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -67.86 | Error: -2.14 | Output: -0.79 | Time (ms): 88299 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.82 | Error: -2.18 | Output: -0.79 | Time (ms): 88410 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.48 | Error: -2.52 | Output: -0.79 | Time (ms): 88520 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.46 | Error: -2.54 | Output: -0.79 | Time (ms): 88631 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.16 | Error: -2.84 | Output: -0.79 | Time (ms): 88741 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 9
+
+Target: -70.00 | Angle: -67.34 | Error: -2.66 | Output: -0.79 | Time (ms): 88852 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -67.39 | Error: -2.61 | Output: -0.79 | Time (ms): 88963 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -70.00 | Angle: -66.97 | Error: -3.03 | Output: -0.79 | Time (ms): 89073 | Prop: 0.43 | Der: 0.39 | Int: -1.61 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -63.86 | Error: 53.86 | Output: 4.70 | Time (ms): 89221 | Prop: 5.39 | Der: -0.33 | Int: -0.36 | Loop time (ms): 47
+
+Target: -10.00 | Angle: -53.75 | Error: 43.75 | Output: 5.60 | Time (ms): 89401 | Prop: 4.38 | Der: -0.56 | Int: 1.79 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -34.17 | Error: 24.17 | Output: 5.08 | Time (ms): 89581 | Prop: 2.42 | Der: -0.49 | Int: 3.16 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -23.83 | Error: 13.83 | Output: 5.05 | Time (ms): 89762 | Prop: 1.38 | Der: -0.24 | Int: 3.91 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -15.91 | Error: 5.91 | Output: 4.72 | Time (ms): 89943 | Prop: 0.59 | Der: -0.16 | Int: 4.29 | Loop time (ms): 47
+
+Target: -10.00 | Angle: -13.53 | Error: 3.53 | Output: 5.11 | Time (ms): 90121 | Prop: 0.58 | Der: 0.07 | Int: 4.47 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -8.54 | Error: -1.46 | Output: 5.11 | Time (ms): 90230 | Prop: 0.58 | Der: 0.07 | Int: 4.47 | Loop time (ms): 10
+
+Target: -10.00 | Angle: -6.79 | Error: -3.21 | Output: 3.72 | Time (ms): 90357 | Prop: -0.40 | Der: -0.33 | Int: 4.46 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -8.20 | Error: -1.80 | Output: 4.11 | Time (ms): 90468 | Prop: -0.45 | Der: 0.16 | Int: 4.41 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -10.54 | Error: 0.54 | Output: 2.48 | Time (ms): 90582 | Prop: -0.42 | Der: -1.50 | Int: 4.40 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -10.43 | Error: 0.43 | Output: 6.23 | Time (ms): 90695 | Prop: 0.49 | Der: 1.33 | Int: 4.41 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -6.58 | Error: -3.42 | Output: 3.13 | Time (ms): 90815 | Prop: -0.46 | Der: -0.81 | Int: 4.40 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -6.29 | Error: -3.71 | Output: 3.00 | Time (ms): 90961 | Prop: -0.44 | Der: -0.89 | Int: 4.33 | Loop time (ms): 9
+
+Target: -10.00 | Angle: -15.42 | Error: 5.42 | Output: 5.07 | Time (ms): 91092 | Prop: 0.54 | Der: 0.08 | Int: 4.45 | Loop time (ms): 49
+
+Target: -10.00 | Angle: -4.31 | Error: -5.69 | Output: 3.76 | Time (ms): 91271 | Prop: -0.57 | Der: -0.11 | Int: 4.43 | Loop time (ms): 47
+
+Target: -10.00 | Angle: -7.95 | Error: -2.05 | Output: 3.89 | Time (ms): 91458 | Prop: -0.55 | Der: 0.11 | Int: 4.33 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -15.56 | Error: 5.56 | Output: 5.04 | Time (ms): 91582 | Prop: 0.56 | Der: 0.03 | Int: 4.45 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -6.09 | Error: -3.91 | Output: 5.07 | Time (ms): 91736 | Prop: 0.51 | Der: 0.00 | Int: 4.56 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -4.13 | Error: -5.87 | Output: 4.04 | Time (ms): 91845 | Prop: -0.59 | Der: 0.15 | Int: 4.49 | Loop time (ms): 46
+
+Target: -10.00 | Angle: -7.30 | Error: -2.70 | Output: 4.31 | Time (ms): 92034 | Prop: -0.49 | Der: 0.47 | Int: 4.34 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -14.64 | Error: 4.64 | Output: 4.97 | Time (ms): 92150 | Prop: 0.46 | Der: 0.07 | Int: 4.43 | Loop time (ms): 47
+
+Target: -10.00 | Angle: -8.49 | Error: -1.51 | Output: 3.83 | Time (ms): 92298 | Prop: -0.50 | Der: -0.04 | Int: 4.38 | Loop time (ms): 9
+
+Target: -10.00 | Angle: -8.17 | Error: -1.83 | Output: 3.86 | Time (ms): 92412 | Prop: -0.55 | Der: 0.08 | Int: 4.32 | Loop time (ms): 9
+
+Target: -10.00 | Angle: -13.38 | Error: 3.38 | Output: 5.53 | Time (ms): 92562 | Prop: 0.42 | Der: 0.78 | Int: 4.32 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -3.35 | Error: -6.65 | Output: 3.38 | Time (ms): 92673 | Prop: -0.67 | Der: -0.21 | Int: 4.25 | Loop time (ms): 47
+
+Target: -10.00 | Angle: -7.52 | Error: -2.48 | Output: 2.12 | Time (ms): 92822 | Prop: -0.57 | Der: -1.50 | Int: 4.19 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -16.10 | Error: 6.10 | Output: 6.25 | Time (ms): 92933 | Prop: 0.61 | Der: 1.50 | Int: 4.15 | Loop time (ms): 49
+
+Target: -10.00 | Angle: -14.81 | Error: 4.81 | Output: 4.88 | Time (ms): 93113 | Prop: 0.48 | Der: 0.02 | Int: 4.38 | Loop time (ms): 47
+
+Target: -10.00 | Angle: -14.52 | Error: 4.52 | Output: 5.06 | Time (ms): 93291 | Prop: 0.45 | Der: 0.00 | Int: 4.60 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -6.22 | Error: -3.78 | Output: 5.06 | Time (ms): 93441 | Prop: 0.45 | Der: 0.00 | Int: 4.60 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -6.88 | Error: -3.12 | Output: 4.10 | Time (ms): 93590 | Prop: -0.49 | Der: 0.06 | Int: 4.54 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -5.36 | Error: -4.64 | Output: 4.13 | Time (ms): 93702 | Prop: -0.46 | Der: 0.11 | Int: 4.48 | Loop time (ms): 46
+
+Target: -10.00 | Angle: -11.53 | Error: 1.53 | Output: 4.13 | Time (ms): 93850 | Prop: -0.46 | Der: 0.11 | Int: 4.48 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -8.54 | Error: -1.46 | Output: 3.49 | Time (ms): 93995 | Prop: -0.44 | Der: -0.55 | Int: 4.48 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -6.06 | Error: -3.94 | Output: 3.53 | Time (ms): 94129 | Prop: -0.70 | Der: -0.11 | Int: 4.34 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -14.00 | Error: 4.00 | Output: 6.19 | Time (ms): 94239 | Prop: 0.40 | Der: 1.50 | Int: 4.29 | Loop time (ms): 50
+
+Target: -10.00 | Angle: -14.83 | Error: 4.83 | Output: 4.86 | Time (ms): 94424 | Prop: 0.48 | Der: -0.14 | Int: 4.52 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -6.22 | Error: -3.78 | Output: 3.37 | Time (ms): 94581 | Prop: -0.41 | Der: -0.80 | Int: 4.58 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -7.90 | Error: -2.10 | Output: 4.24 | Time (ms): 94690 | Prop: -0.41 | Der: 0.12 | Int: 4.53 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -11.26 | Error: 1.26 | Output: 4.10 | Time (ms): 94801 | Prop: -0.41 | Der: 0.03 | Int: 4.48 | Loop time (ms): 9
+
+Target: -10.00 | Angle: -12.11 | Error: 2.11 | Output: 4.10 | Time (ms): 94911 | Prop: -0.41 | Der: 0.03 | Int: 4.48 | Loop time (ms): 9
+
+Target: -10.00 | Angle: -5.18 | Error: -4.82 | Output: 3.89 | Time (ms): 95022 | Prop: -0.48 | Der: -0.06 | Int: 4.43 | Loop time (ms): 46
+
+Target: -10.00 | Angle: -6.89 | Error: -3.11 | Output: 3.90 | Time (ms): 95170 | Prop: -0.55 | Der: 0.08 | Int: 4.37 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -7.97 | Error: -2.03 | Output: 3.86 | Time (ms): 95289 | Prop: -0.43 | Der: -0.03 | Int: 4.32 | Loop time (ms): 8
+
+Target: -10.00 | Angle: -14.77 | Error: 4.77 | Output: 4.86 | Time (ms): 95429 | Prop: 0.48 | Der: -0.00 | Int: 4.38 | Loop time (ms): 47
+
+Target: -10.00 | Angle: -5.64 | Error: -4.36 | Output: 4.07 | Time (ms): 95606 | Prop: -0.44 | Der: 0.17 | Int: 4.34 | Loop time (ms): 46
+
+Target: -10.00 | Angle: -4.14 | Error: -5.86 | Output: 2.19 | Time (ms): 95757 | Prop: -0.59 | Der: -1.50 | Int: 4.27 | Loop time (ms): 45
+
+Target: -10.00 | Angle: -16.11 | Error: 6.11 | Output: 4.93 | Time (ms): 95908 | Prop: 0.61 | Der: 0.03 | Int: 4.29 | Loop time (ms): 50
+
+Target: -10.00 | Angle: -16.30 | Error: 6.30 | Output: 5.27 | Time (ms): 96090 | Prop: 0.63 | Der: 0.05 | Int: 4.59 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -3.06 | Error: -6.94 | Output: 4.00 | Time (ms): 96271 | Prop: -0.69 | Der: 0.18 | Int: 4.51 | Loop time (ms): 46
+
+Target: -10.00 | Angle: -5.84 | Error: -4.16 | Output: 4.08 | Time (ms): 96420 | Prop: -0.42 | Der: 0.08 | Int: 4.42 | Loop time (ms): 48
+
+Target: -10.00 | Angle: -10.41 | Error: 0.41 | Output: 4.08 | Time (ms): 96570 | Prop: -0.42 | Der: 0.08 | Int: 4.42 | Loop time (ms): 8
